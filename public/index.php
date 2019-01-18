@@ -12,6 +12,9 @@ require_once ROOT . '/config/config.php';
     if((isset($_POST['auth'])) && ($_POST['auth']) == "ADMIN"){
     	header("Location: http://myproject/admin/index.php");
     }
+$config = config('db');
+$db = \project\Database::getInstance($config);
+$connect = $db->connection;
 new project\App();
 
 //$param['page'] = isset($_GET['page']) ? $_GET['page'] : 'home';
