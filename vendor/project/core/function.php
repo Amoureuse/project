@@ -20,4 +20,5 @@ function debug($arr){
 
 function redirect($str, $errors = []){
     header("Location:" . "$str" );
+  exit;
 }
