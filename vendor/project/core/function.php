@@ -17,3 +17,7 @@ function limitStr($str, $n = 20) {
 function debug($arr){
   echo '<pre>' . print_r($arr, true) . '</pre>';
 }
+
+function redirect($str, $errors = []){
+    header("Location:" . "$str" );
+}
