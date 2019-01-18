@@ -62,9 +62,6 @@ class AuthController extends AppController{
             if(isset($user['email'])){
                 $errors[] = 'Пользователь с таким email существует';
             }
-            if(isset($user['username']) && $user['username'] == $_POST['username']){
-                $errors[] = 'Пользователь с таким именем существует';
-            }
             if(trim($_POST['username']) == '' || (!ctype_alnum($_POST['username']))){
                  $errors[] = 'Некорректный логин!';
             }
