@@ -18,7 +18,8 @@ Class Model{
         $result = $stmt->execute();
         return $result;
     }
-     {
+     
+    public function get_Id(){
         $id = $this->id;
         $stmt = $this->connect->prepare("SELECT * FROM $this->table WHERE id = ?");
         $stmt->bind_param('i', $id);
