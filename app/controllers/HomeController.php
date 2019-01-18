@@ -1,12 +1,12 @@
 <?php
 namespace app\controllers;
-use app\controllers\Controller;
+use app\controllers\AppController;
 
-Class HomeController extends Controller{
+Class HomeController extends AppController{
 
   public function index(){	
   
-    $model = new \app\models\Model();
+    $model = new \app\models\ItemModel();
     $items = $model->get_arr_items();
     $data = [
       'items'=> $items,
@@ -40,6 +40,7 @@ Class HomeController extends Controller{
 
 	
 }
+
 
 
 
