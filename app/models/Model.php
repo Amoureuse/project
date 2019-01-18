@@ -4,6 +4,7 @@ use project\Database;
 Class Model{
     protected $connect;
     protected $table;
+    protected $id;
     
 
 
@@ -17,6 +18,14 @@ Class Model{
         $result = $stmt->execute();
         return $result;
     }
-    
+     {
+        $id = $this->id;
+        $stmt = $this->connect->prepare("SELECT * FROM $this->table WHERE id = ?");
+        $stmt->bind_param('i', $id);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        $data = $result->fetch_assoc();
+        return $data;
+    }
      
 }
