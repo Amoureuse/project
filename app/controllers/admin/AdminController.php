@@ -1,10 +1,10 @@
 <?php 
 namespace app\controllers\admin;
 
-Class AdminController extends \app\controllers\Controller{
+Class AdminController extends \app\controllers\AppController{
 
     public function index(){
-        $model = new \app\models\Model();
+        $model = new \app\models\ItemModel();
         $items = $model->get_arr_items();
         $data = [
             'items'=> $items,
