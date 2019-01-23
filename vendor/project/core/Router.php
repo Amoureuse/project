@@ -31,6 +31,7 @@ class Router {
         }return false;
    }
    public static function dispatch($url){
+       $url = self::removeQueryString($url);
        if(self::matchRoute($url)){
            $controller = 'app\controllers\\' . self::$route['prefix'] . 
            self::$route['controller'];
@@ -38,11 +39,23 @@ class Router {
                $cObj = new $controller(self::$route);
                $action = self::$route['action'];
                $cObj->$action();
+               $cObj->getView();
            }else{
                throw new \Exception("Контроллер $controller не найден", 404);
            }   
        }else{
            throw new \Exception("Страница не найдена", 404); 
+       }
+   }
+   
+   protected static function removeQueryString($url){ 
+       if($url){
+           $params = explode('&', $url, 2);
+           if(false === strpos($params[0], '=')){
+               return rtrim($params[0],'/');
+           }else{
+               return '';
+           }
        }
    }
 }
