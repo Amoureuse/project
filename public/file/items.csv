@@ -1,0 +1,11 @@
+id;name;price;count;disc;description;image
+1;Монитор;1080;5;10;Some quick example text to build on the card title and make up the bulk of the card's content.;image/m.png
+2;Компьютер;3780;7;10;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d17/1812/9f/ca893de8f555.jpg
+3;Ноутбук;6930;2;10;Some quick example text to build on the card title and make up the bulk of the card's content.;https://c.radikal.ru/c09/1812/dc/3e953e8da20d.jpg
+4;Принтер;1800;1;10;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d17/1812/07/849f6c4a6485.jpg
+5;Стол;нет на складе;0;20;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d25/1812/7f/085c50292c42.png
+6;Стул;нет на складе;0;20;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d25/1812/7f/085c50292c42.png
+7;Шкаф;1008;8;20;Some quick example text to build on the card title and make up the bulk of the card's content.;https://i.ibb.co/ZGdGZX9/wardrobe.png
+8;Кресло;3400;9;20;Some quick example text to build on the card title and make up the bulk of the card's content.;https://c.radikal.ru/c42/1812/c1/d7d291dc65f0.jpg
+9;Диван;9800;1;30;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d25/1812/7f/085c50292c42.png
+10;Телефон;10200;4;15;onePlus v2.0;https://a.radikal.ru/a10/1901/e6/f4305856edf7.jpg
