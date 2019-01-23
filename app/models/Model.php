@@ -4,13 +4,13 @@ use project\Database;
 Class Model{
     protected $connect;
     protected $table;
-    protected $id;
     
 
 
-    public function __construct() {
+    public function __construct($table = '') {
         $db = Database::getInstance();
         $this->connect = $db->connection;;
+        $this->table = $table;
     }
     public function delete($id) {
         $stmt = $this->connect->prepare("DELETE FROM $this->table WHERE id = ? ");
@@ -18,10 +18,8 @@ Class Model{
         $result = $stmt->execute();
         return $result;
     }
-     
-    public function get_Id(){
-        $id = $this->id;
-        $stmt = $this->connect->prepare("SELECT * FROM $this->table WHERE id = ?");
+    public function readID($id){
+        $stmt = $this->connect->prepare("SELECT * FROM $this->table WHERE id = ? ");
         $stmt->bind_param('i', $id);
         $stmt->execute();
         $result = $stmt->get_result();
@@ -30,3 +28,5 @@ Class Model{
     }
      
 }
+
+
