@@ -1,15 +1,15 @@
 <?php
 namespace project\base;
 
-class Controller {
+abstract class Controller {
     
     public $route;
     public $controller;
     public $view;
     public $prefix;
     public $layout;
-    public $data;
-    public $meta = [];
+    public $data =[];
+    public $meta = ['title'=> '','description'=>'','keywords'=>''];
     
     public function __construct($route) {
         $this->route = $route;
