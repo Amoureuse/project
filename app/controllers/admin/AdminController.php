@@ -2,6 +2,13 @@
 namespace app\controllers\admin;
 
 Class AdminController extends \app\controllers\AppController{
+    
+    public function __construct($route) {
+        parent::__construct($route);
+        if(!\project\Auth::isAdmin()){
+            redirect('/');
+        }
+    }
 
     public function index(){
         $model = new \app\models\ItemModel();
