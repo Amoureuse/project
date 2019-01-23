@@ -16,9 +16,20 @@ function limitStr($str, $n = 20) {
 }
 function debug($arr){
   echo '<pre>' . print_r($arr, true) . '</pre>';
-}
+} 
 
-function redirect($str, $errors = []){
+function redirect($str){
     header("Location:" . "$str" );
-  exit;
+    exit;
 }
+    
+function splashMessage($error){
+        $_SESSION['error'] = $error;
+}  
+
+function oldData($oldData){
+    $_SESSION['form_data'] = $oldData;
+    }
+
+
+
