@@ -1,22 +1,25 @@
 <?php
 namespace app\controllers;
-use app\controllers\AppController;
 
 Class HomeController extends AppController{
 
   public function index(){	
-  
-    $model = new \app\models\ItemModel();
+    $model = new \app\models\ItemModel('users');
     $items = $model->get_arr_items();
+    $user = \project\Auth::getUser($model);
     $data = [
       'items'=> $items,
       'lastViewItems'=> $this->recViewed ($items),
       'cookieOk' => $this->cookie(),
-        ];
-    $this->view('home', $data);  
+        'user' => $user,
+        ]; 
+    $this->setMeta('Главная страница');
+    $this->set($data);
+    
   }
 
-  public function __construct(){
+  public function __construct($route){
+    parent::__construct($route);
     if (!isset($_SESSION['visited'])) {
             $_SESSION['visited'] = array();          
         }
@@ -40,7 +43,6 @@ Class HomeController extends AppController{
 
 	
 }
-
 
 
 
