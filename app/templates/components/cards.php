@@ -3,7 +3,7 @@
     <img class="card-img-top" src="<?= $item->image?>">
     <div class="card-body">
 
-        <h5 class="card-title"><a href="index.php?id=<?= $item->id?>"><?= $item->name?></a></h5>
+        <h5 class="card-title"><a href="/show?id=<?= $item->id?>"><?= $item->name?></a></h5>
         <p class="card-text"><?= $item->description?>.</p>
     </div>
     <div class="card-footer bg-transparent border-primary"><?= $item->price?>
