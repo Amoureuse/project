@@ -7,10 +7,10 @@ Class Model{
     
 
 
-    public function __construct($table = '') {
+    public function __construct() {
         $db = Database::getInstance();
-        $this->connect = $db->connection;;
-        $this->table = $table;
+        $this->connect = $db->connection;
+        
     }
     public function delete($id) {
         $stmt = $this->connect->prepare("DELETE FROM $this->table WHERE id = ? ");
