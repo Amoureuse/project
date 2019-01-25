@@ -23,7 +23,7 @@ Class HomeController extends AppController{
     if (!isset($_SESSION['visited'])) {
             $_SESSION['visited'] = array();          
         }
-  }
+    }
   public function recViewed ($items){
       $f_Items = [];
       if(isset($_GET['id'])){

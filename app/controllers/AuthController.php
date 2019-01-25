@@ -1,4 +1,3 @@
-
 <?php
 namespace app\controllers;
 
@@ -15,7 +14,7 @@ class AuthController extends AppController{
     public function login(){
         if(!empty($_POST)){
             $email = $_POST['email'];
-            $user = $this->model->read(['email' => $email]);
+            $user = $this->model->read($email);
             if(!$user){
                $error = "Пользователя с таким email не существует";
                splashMessage($error);
@@ -31,9 +30,8 @@ class AuthController extends AppController{
                 $oldData = [
                     'email' => $_POST['email']
                 ];
-                oldData($oldData);
                 $error="Неверный пароль";
-                splashMessage($error);
+                splashMessage($error,$oldData);
                 redirect('/login'); 
             }
         }
@@ -48,13 +46,13 @@ class AuthController extends AppController{
                     'email' => $_POST['email'],
                     'username'=>$_POST['username']
                 ];
-                oldData($oldData);
-                splashMessage($errors[0]);
+                splashMessage($errors[0],$oldData);
             redirect('/register');
             }
             $data = $_POST;
             $userId = $this->model->create($data);
             \project\Auth::login($userId);
+            redirect('/');
         }else{
             $this->setMeta('Регистрация');
         }
@@ -62,6 +60,7 @@ class AuthController extends AppController{
     
     public function logout(){
         \project\Auth::logout();
+        redirect('/');
     }
     public function checkRegister(){
         if(isset($_POST['submit_reg'])){ 

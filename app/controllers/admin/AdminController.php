@@ -25,7 +25,7 @@ Class AdminController extends \app\controllers\AppController{
             $this->addProduct();
             }    
         }
-        $this->view('admin/add', $this->data);
+        $this->view('admin/add', $data=[]);
     }
  
     public function edit(){
@@ -34,15 +34,9 @@ Class AdminController extends \app\controllers\AppController{
             $this->updateProduct();
             }    
         }
-        $this->view('admin/edit', $this->data);
+        $this->view('admin/edit', $data=[]);
     }
-    public function addProduct(){
-        $name = $_POST['name'];
-        $description = $_POST['description'];
-        $price = $_POST['price'];
-        $stock = $_POST['stock'];
-        $disc = $_POST['disc'];
-        $image = $_POST['image'];
+    public function addProduct($name,$description,$price,$stock,$disc,$image=null){
         $stmt = $this->connect->prepare("INSERT INTO goods (name,description, price, stock,disc,image) VALUES (? ,? ,?,?,?,?)");
         $stmt->bind_param('ssdiis',$name,$description,$price,$stock,$disc,$image);
         $stmt->execute();
@@ -50,14 +44,7 @@ Class AdminController extends \app\controllers\AppController{
         return $result; 
     }
     
-    public function updateProduct(){
-        $id = $_POST['id'];
-        $name = $_POST['name'];
-        $description = $_POST['description'];
-        $price = $_POST['price'];
-        $stock = $_POST['stock'];
-        $disc = $_POST['disc'];
-        $image = $_POST['image'];
+    public function updateProduct($id,$name,$description,$price,$stock,$disc,$image=null){
         $stmt = $this->connect->prepare("UPDATE goods SET name = ?,description = ?, price = ?, stock = ?,disc = ?,image = ? WHERE id = $id");
         $stmt->bind_param('ssdiis',$name,$description,$price,$stock,$disc,$image);
         $stmt->execute();
