@@ -1,4 +1,7 @@
 <?php
+function memUrl(){
+    $_SESSION['url'] = $_SERVER['REQUEST_URI'];    
+}
 //возврат url по имени маршрута;
 function routeName($name){
     $routes = [
@@ -48,10 +51,29 @@ function redirect($str){
     exit;
 }
     
-function splashMessage($error=[], $oldData=[]){
-        $_SESSION['error'] = $error;
-        $_SESSION['form_data'] = $oldData;
-} 
+function splashMessage($data = false, $class = 'info')
+    {
+        if($data) {
+            $_SESSION['error'] = $data;
+            $_SESSION['error_class'] = $class;
+        } else {
+            $message['data'] = $_SESSION['error'];
+            $message['class'] = $_SESSION['error_class'];
+            $_SESSION['error'] = '';
+            $_SESSION['error_class'] = '';
+            return $message;
+        }
+    }
+function oldData($data = false){
+    if($data){
+        $_SESSION['form_data'] = $data;
+    } else {
+        $oldData = $_SESSION['form_data'];
+        $_SESSION['form_data'] = '';
+        return $oldData;
+    }
+    
+}
 
 
 
