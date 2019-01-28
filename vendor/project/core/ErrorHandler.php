@@ -1,40 +1,46 @@
 <?php
+
 namespace project;
 
-class ErrorHandler {
-     public function __construct(){
-        if(DEBUG){
+class ErrorHandler
+{
+    public function __construct()
+    {
+        if (DEBUG) {
             error_reporting(-1);
-        }else{
+        } else {
             error_reporting(0);
         }
         set_exception_handler([$this, 'exceptionHandler']);
     }
     
-    public function exceptionHandler($e){
-        $this->logErrors($e->getMessage(),$e->getFile(), $e->getLine());
+    public function exceptionHandler($e)
+    {
+        $this->logErrors($e->getMessage(), $e->getFile(), $e->getLine());
         $this->displayError('Исключение', $e->getMessage(), $e->getFile(),
-                $e->getLine() , $e->getCode());
+                $e->getLine(), $e->getCode());
     }
     
-    public function logErrors($message = '', $file = '', $line = '') {
+    public function logErrors($message = '', $file = '', $line = '')
+    {
         error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки:"
-                . " {$message}| Файл:{$file}|Строка:{$line}\n============\n",
-                        3, ROOT .'/public/errors/errors.log');
+                . " {$message} | Файл: {$file} | Строка: {$line}\n============\n",
+                        3, ROOT . '/public/errors/errors.log');
     }
     
-    protected function displayError($errno, $errstr, $errfile, $errline, 
-            $responce = 404){
+    protected function displayError($errno, $errstr, $errfile, $errline, $responce = 404)
+    {
         http_response_code($responce);
-        if($responce == 404 && !DEBUG){
+        if ($responce == 404 && !DEBUG) {
             require ROOT . '/public/errors/404.php';
             die;
         }
-        if(DEBUG){
+        if (DEBUG) {
             require ROOT . '/public/errors/develop.php';;
-        }else{
+        } else {
             require ROOT . '/public/errors/production.php';;
         }
         die;
     }
+    
 }
