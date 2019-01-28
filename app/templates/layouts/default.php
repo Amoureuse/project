@@ -46,10 +46,13 @@
 </nav>
 </header>
 <body>   
-    <?php $mess = splashMessage();?>
-        <div class="<?= $mess['class']?>">
-            <p align="center"><?= $mess['data']?></p>
-        </div>
+    <?php 
+        if (isset($_SESSION['error'])) {
+            $mess = splashMessage();?>
+    <div class="<?= $mess['class']?>">
+        <p align="center"><?= $mess['data']?></p>
+    </div>
+    <?php } ?>
     <?= $content;?>
 </body>
 <footer>
