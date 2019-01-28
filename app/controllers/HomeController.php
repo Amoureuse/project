@@ -1,46 +1,67 @@
 <?php
+
 namespace app\controllers;
 
-Class HomeController extends AppController{
+use app\models\ItemModel;
+use project\Auth;
 
-  public function index(){	
-    $model = new \app\models\ItemModel('users');
-    $items = $model->get_arr_items();
-    $user = \project\Auth::getUser($model);
-    $data = [
-      'items'=> $items,
-      'lastViewItems'=> $this->recViewed ($items),
-      'cookieOk' => $this->cookie(),
-        'user' => $user,
-        ]; 
-    $this->setMeta('Главная страница');
-    $this->set($data);
-    
-  }
+Class HomeController extends AppController
+{
 
-  public function __construct($route){
-    parent::__construct($route);
-    if (!isset($_SESSION['visited'])) {
+    public function __construct($route)
+    {
+        parent::__construct($route);
+        if (!isset($_SESSION['visited'])) {
             $_SESSION['visited'] = array();          
         }
     }
-  public function recViewed ($items){
-      $f_Items = [];
-      if(isset($_GET['id'])){
-      array_unshift($_SESSION['visited'], $_GET['id']);}
     
-    $_SESSION['visited'] = array_unique($_SESSION['visited']);
-    $_SESSION['visited'] = array_slice ($_SESSION['visited'],0,3);
-    foreach ($_SESSION['visited'] as $value) {
-        foreach ($items as $item){
-            if ($value == $item->id){
-            	 $f_Items[]= $item;
-            }
-	}
-    }return $f_Items;
-} 
+    public function index()
+    {
+        if ((isset($_POST['check'])) and (isset($_POST['on']))) {
+            setcookie('check','yes', time() +3600*24*365);
+    	    header("Location: /");
+    	    die;
+        }
+        $model = new ItemModel();
+        $items = $model->get_arr_items();
+        $user = Auth::getUser($model);
+        $data = [
+            'items'=> $items,
+            'lastViewItems'=> $this->recViewed ($items),
+            'cookieOk' => $this->cookie(),
+            'user' => $user,
+        ]; 
+        $this->setMeta('Главная страница');
+        $this->set($data);
+    
+    }
 
-
+    public function cookie()
+    {
+        if (isset($_COOKIE['check'])) {
+            return true;
+            
+        }
+    }
+    
+    public function recViewed($items)
+    {
+        $f_Items = [];
+        if (isset($_GET['id'])) {
+            array_unshift($_SESSION['visited'], $_GET['id']);
+        }
+        $_SESSION['visited'] = array_unique($_SESSION['visited']);
+        $_SESSION['visited'] = array_slice ($_SESSION['visited'],0,3);
+        foreach ($_SESSION['visited'] as $value) {
+            foreach ($items as $item) {
+                if ($value == $item->id) {
+            	    $f_Items[]= $item;
+                }
+	    }
+        }
+        return $f_Items;
+    }
 	
 }
 
