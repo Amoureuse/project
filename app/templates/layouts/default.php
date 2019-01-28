@@ -46,13 +46,11 @@
 </nav>
 </header>
 <body>   
-    <?php if(isset($_SESSION['error'])):?>
-    <div class="alert alert-danger">
-        <p align = "center"><?=$_SESSION['error'];?></p>
-    </div>
-    <?php endif;?>
-    <?php unset($_SESSION['error'])?>
-        <?= $content;?>
+    <?php $mess = splashMessage();?>
+        <div class="<?= $mess['class']?>">
+            <p align="center"><?= $mess['data']?></p>
+        </div>
+    <?= $content;?>
 </body>
 <footer>
 </footer>
