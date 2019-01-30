@@ -3,6 +3,7 @@
 namespace app\controllers;
 
 use app\models\UserModel;
+use project\Auth;
 
 class UserController extends AppController
 {
@@ -12,18 +13,15 @@ class UserController extends AppController
     {
         parent::__construct($route);
         $this->model= new UserModel();
-        if (!(\project\Auth::userID())) {
-            memUrl();
+        if (!(Auth::userID())) {
+            memUrl($_SERVER['REQUEST_URI']);
             redirect('/login');
-        }
-        if (isset($_SESSION['url'])) {
-            unset($_SESSION['url']);
         }
     }
 
     public function index()
     {
-        $user = \project\Auth::getUser();
+        $user = Auth::getUser();
         $data=[
             'user'=>$user,
         ];
@@ -32,15 +30,16 @@ class UserController extends AppController
     
     public function edit()
     {
-        $user = \project\Auth::getUser();
+        $user = Auth::getUser();
         if (!empty($_POST)) {
-            $errors = [];
-            if ($errors) {
+            $errors = $this->validation($user);
+            if ($errors !== true) {
                 $data = [
                     'username'=>$_POST['username'],
                 ];
                 oldData($data);
-                splashMessage($errors);
+                splashMessage($errors['0'], 'alert-danger');
+                redirect('/user/edit');
             }
             if (!empty($_FILES['path']['name'])) {
                 if ($this->filesValid() !== true) {
@@ -57,7 +56,7 @@ class UserController extends AppController
                 $avatar = null;
             }
             $username = (!empty($_POST['username'])) ? $_POST['username'] : $user['username'];
-            $password = (!empty($_POST['pass'])) ? password_hash($_POST['pass'], PASSWORD_DEFAULT) : $user['pass'];
+            $password = password_hash($_POST['pass'], PASSWORD_DEFAULT);
         }
         if (isset($_POST['submit'])) {
             $this->model->update($user['id'], $username, $password, $avatar);
