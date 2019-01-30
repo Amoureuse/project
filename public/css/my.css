@@ -1,0 +1,27 @@
+.profile{
+    margin-left: 350px;
+    margin-bottom: 20px;
+    font-family: Playfair Display, serif;
+    font-style:italic;
+    font-weight:bold;
+}
+.profile-avatar {
+    float:left; 
+    margin-left: 7px;
+    margin-right: 10px;
+}
+.profile-user{
+    margin-top: 20px;
+    font-family: Playfair Display, serif;
+    font-style:italic;
+    font-size: 30px;
+}
+.edit-pro{
+    margin-top: 55px;
+}
+.edit-pro a{
+    font-size:1.6em;
+    font-family: Playfair Display, serif;
+    font-style:italic;
+    color:#a7a49c;
+}
