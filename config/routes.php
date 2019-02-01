@@ -1,11 +1,13 @@
 <?php
 use project\Router;
 
-Router::add('',['controller'=>'HomeController','action' =>'index']);
+Router::add('',['controller'=>'HomeController','action' =>'main']);
+Router::add('show',['controller'=>'HomeController','action' =>'index']);
 Router::add('login',['controller'=>'AuthController','action' =>'login']);
 Router::add('logout',['controller'=>'AuthController','action' =>'logout']);
 Router::add('register',['controller'=>'AuthController','action' =>'register']);
 Router::add('user',['controller'=>'UserController','action' =>'index']);
+Router::add('user/edit',['controller'=>'UserController','action' =>'edit']);
 Router::add('admin',['controller'=>'AdminController','action' =>'index',
     'prefix'=>'admin']);
 Router::add('admin/index',['controller'=>'AdminController','action' =>'index',

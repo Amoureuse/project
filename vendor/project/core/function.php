@@ -43,8 +43,8 @@ function splashMessage($data = false, $class = 'info')
         $_SESSION['error'] = $data;
         $_SESSION['error_class'] = $class;
     } else {
-        $message['data'] = $_SESSION['error'];
-        $message['class'] = $_SESSION['error_class'];
+        $message['data'] = isset($_SESSION['error']) ? $_SESSION['error'] : '';
+        $message['class'] = isset($_SESSION['error_class']) ? $_SESSION['error_class'] : '';
         $_SESSION['error'] = '';
         $_SESSION['error_class'] = '';
         return $message;
@@ -56,7 +56,7 @@ function oldData($data = false)
     if ($data) {
         $_SESSION['form_data'] = $data;
     } else {
-        $oldData = $_SESSION['form_data'];
+        $oldData = isset($_SESSION['form_data']) ? $_SESSION['form_data'] : '';
         $_SESSION['form_data'] = '';
         return $oldData;
     }

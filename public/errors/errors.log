@@ -512,3 +512,1845 @@
 ============
 [2019-01-16 16:42:52] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
 ============
+[2019-01-16 18:54:41] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 10:48:33] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 10:48:34] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:10] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:11] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:57] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:58] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:09:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:19:40] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 14:20:51] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 14:22:09] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:23:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-17 14:24:18] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 14:35:47] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 14:40:12] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 14:41:12] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:49
+============
+[2019-01-17 15:44:22] Текст ошибки: Call to undefined method app\models\Model::get_arr_items()| Файл:C:\xampp\htdocs\myproject\app\controllers\HomeController.php|Строка:10
+============
+[2019-01-17 15:45:08] Текст ошибки: Call to a member function query() on null| Файл:C:\xampp\htdocs\myproject\app\models\ItemModel.php|Строка:16
+============
+[2019-01-17 18:12:31] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:18
+============
+[2019-01-17 18:13:06] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:19
+============
+[2019-01-17 18:14:06] Текст ошибки: Call to undefined function app\controllers\redirect()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:19
+============
+[2019-01-17 18:15:07] Текст ошибки: Class 'app\models\Item' not found| Файл:C:\xampp\htdocs\myproject\app\models\ItemModel.php|Строка:21
+============
+[2019-01-18 09:45:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:45
+============
+[2019-01-18 15:21:55] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:36
+============
+[2019-01-18 15:23:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-18 15:23:10] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-18 15:26:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-18 15:26:10] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-18 18:06:19] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-18 19:03:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-18 19:03:45] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-18 19:22:11] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-19 13:40:32] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-19 13:50:00] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-19 13:59:37] Текст ошибки: Call to undefined function splashMessage()| Файл:C:\xampp\htdocs\myproject\app\templates\auth.php|Строка:62
+============
+[2019-01-19 14:09:35] Текст ошибки: Call to undefined function app\controllers\splashMessage()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:19
+============
+[2019-01-19 14:09:47] Текст ошибки: Call to undefined function app\controllers\splashMessage()| Файл:C:\xampp\htdocs\myproject\app\controllers\AuthController.php|Строка:19
+============
+[2019-01-19 14:17:09] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)| Файл:C:\xampp\htdocs\myproject\app\templates\auth.php|Строка:77
+============
+[2019-01-22 11:04:10] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-22 11:34:51] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:35:59] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:36:00] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:37:01] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:37:17] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:37:29] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:37:57] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:38:33] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:47:43] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/AuthController/login.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:47:52] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/AuthController/login.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:51:03] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates//.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:57:14] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 11:59:35] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/HomeController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 12:15:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:46
+============
+[2019-01-22 12:15:16] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 12:15:29] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:38
+============
+[2019-01-22 12:52:50] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/AuthController/register.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 13:05:00] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:17:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:19:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:19:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:19:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:19:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:20:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:20:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:20:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:20:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:20:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:26:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:26:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:26:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:26:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:26:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:31:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:35:29] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:36:41] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:37:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:39:34] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:39:34] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:39:38] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:43:40] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:44:06] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:44:44] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:47:36] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:47:41] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:47:43] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:47:57] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:48:01] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 16:50:09] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:54:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:56:11] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 16:56:17] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:00:29] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:03:29] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:03:58] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:04:43] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:04:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:05:43] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:06:31] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:08:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:09:07] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:09:09] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:10:25] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:11:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:12:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:12:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:13:12] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:15:55] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:16:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:20:08] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:21:43] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:21:58] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:22:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:22:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:22:35] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:23:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:23:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:18] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:18] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:21] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:25:51] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:26:10] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:26:16] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:26:23] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:26:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:26:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:27:35] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:27:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:30:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:30:20] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:31:33] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:31:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:32:52] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:37:37] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:49:19] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 17:49:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:05:00] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:44:57] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 18:47:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:52:12] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:52:12] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:52:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-22 18:52:47] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-22 18:53:56] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 09:09:43] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 10:52:29] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 11:28:38] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 11:33:33] Текст ошибки: Call to a member function read() on null| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:25
+============
+[2019-01-23 11:42:32] Текст ошибки: Call to a member function read() on null| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:25
+============
+[2019-01-23 11:42:32] Текст ошибки: Call to a member function read() on null| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:25
+============
+[2019-01-23 11:44:27] Текст ошибки: Call to a member function read() on null| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:25
+============
+[2019-01-23 11:44:28] Текст ошибки: Call to a member function read() on null| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:25
+============
+[2019-01-23 11:45:15] Текст ошибки: Too few arguments to function project\Auth::getUser(), 0 passed in C:\xampp\htdocs\myproject\app\templates\HomeController\index.php on line 4 and exactly 1 expected| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:23
+============
+[2019-01-23 11:46:08] Текст ошибки: Too few arguments to function project\Auth::getUser(), 0 passed in C:\xampp\htdocs\myproject\app\templates\HomeController\index.php on line 4 and exactly 1 expected| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Auth.php|Строка:23
+============
+[2019-01-23 12:07:43] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 12:08:52] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 12:08:53] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 12:08:53] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 12:08:56] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:22
+============
+[2019-01-23 12:11:38] Текст ошибки: Too few arguments to function app\models\Model::__construct(), 0 passed in C:\xampp\htdocs\myproject\app\controllers\AuthController.php on line 11 and exactly 1 expected| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:10
+============
+[2019-01-23 13:31:18] Текст ошибки: Class 'Csv' not found| Файл:C:\xampp\htdocs\myproject\public\index.php|Строка:20
+============
+[2019-01-23 14:31:15] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:23
+============
+[2019-01-23 14:34:52] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:35:15] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:35:21] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:46:04] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:47:30] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:50:05] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 14:57:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:03:27] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:06:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:07:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:07:16] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:07:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:08:07] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:08:08] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:08:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 15:08:30] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:08:36] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:18:36] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:20:27] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/UserController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:21:11] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/UserController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 15:21:12] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/UserController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 16:35:21] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 16:37:22] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 17:46:58] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-23 19:06:55] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 19:32:36] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:23
+============
+[2019-01-23 19:34:26] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:23
+============
+[2019-01-23 19:34:43] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\Model.php|Строка:23
+============
+[2019-01-23 19:37:28] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 19:37:34] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-23 19:37:36] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 09:26:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:47
+============
+[2019-01-24 12:05:02] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 12:55:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:48
+============
+[2019-01-24 12:55:54] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:48
+============
+[2019-01-24 13:01:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:49
+============
+[2019-01-24 13:01:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:48
+============
+[2019-01-24 13:01:50] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:48
+============
+[2019-01-24 13:01:52] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:48
+============
+[2019-01-24 13:35:41] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 13:35:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 13:36:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 13:36:21] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 13:48:41] Текст ошибки: Too few arguments to function project\Router::getRouteName(), 0 passed in C:\xampp\htdocs\myproject\public\index.php on line 21 and at least 1 expected| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:65
+============
+[2019-01-24 14:05:07] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 14:05:19] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 14:05:27] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 14:48:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:51
+============
+[2019-01-24 15:55:51] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:52
+============
+[2019-01-24 16:01:04] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 16:01:07] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 16:01:11] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 22:00:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:00:50] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:23] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:38] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:57] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:58] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:02:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-24 22:03:21] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 22:03:27] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-24 22:03:35] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-25 10:17:31] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:17:32] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:18:55] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:22:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:26:41] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:26:52] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:26:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:28:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:28:45] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:29:16] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:29:20] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 10:29:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:30:20] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:34:33] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:34:34] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:34:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:47:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 12:47:53] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:15:55] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:20
+============
+[2019-01-25 13:16:26] Текст ошибки: Class 'app\controllers\app\models\UserModel' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:17
+============
+[2019-01-25 13:17:14] Текст ошибки: Class 'app\controllers\project\Auth' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:18
+============
+[2019-01-25 13:17:17] Текст ошибки: Class 'app\controllers\project\Auth' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:18
+============
+[2019-01-25 13:22:40] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:43:37] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:43:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:43:43] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:45:17] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:45:17] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:45:19] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:45:19] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:46:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:46:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:48:25] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:48:25] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:48:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:48:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:49:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:51:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:51:49] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:52:26] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 13:52:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:02:14] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:13:56] Текст ошибки: Class 'app\controllers\app\models\UserModel' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:25
+============
+[2019-01-25 14:14:29] Текст ошибки: Class 'app\controllers\app\models\UserModel' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:25
+============
+[2019-01-25 14:14:32] Текст ошибки: Class 'app\controllers\app\models\UserModel' not found| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:25
+============
+[2019-01-25 14:15:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:15:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:16:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:16:05] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:17:08] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:18:01] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:18:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:19:08] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:19:28] Текст ошибки: Call to a member function bind_param() on boolean| Файл:C:\xampp\htdocs\myproject\app\models\UserModel.php|Строка:32
+============
+[2019-01-25 14:20:40] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:20:54] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:21:00] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:23:27] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:24:38] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:25:23] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:25:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:25:31] Текст ошибки: Too few arguments to function splashMessage(), 1 passed in C:\xampp\htdocs\myproject\app\controllers\AuthController.php on line 20 and exactly 2 expected| Файл:C:\xampp\htdocs\myproject\vendor\project\core\function.php|Строка:26
+============
+[2019-01-25 14:28:53] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:28:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:31:01] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:34:17] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:34:18] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:34:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:34:38] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:35:22] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-25 14:35:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:35:30] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:35:48] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:36:08] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:36:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:37:03] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:25] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:32] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:35] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:40] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:45] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:47] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:47] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:51] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-25 14:45:53] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:45:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:46:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:46:21] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:46:57] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:47:03] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:47:03] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:47:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:47:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:48:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:48:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:50:13] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:50:27] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:50:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:52:28] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:52:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:55:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:56:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:57:35] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:57:59] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 14:58:03] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:01:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:01:06] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:01:33] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:01:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:01:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:03:47] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:06:20] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:24:31] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:25:15] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:25:17] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:25:18] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 15:25:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 18:13:50] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-25 18:13:59] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\View.php|Строка:39
+============
+[2019-01-27 12:45:03] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-27 12:50:50] Текст ошибки: [] operator not supported for strings| Файл:C:\xampp\htdocs\myproject\vendor\project\core\base\Controller.php|Строка:19
+============
+[2019-01-27 19:59:56] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-27 20:04:46] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-27 20:09:11] Текст ошибки: Too few arguments to function app\models\UserModel::create(), 1 passed in C:\xampp\htdocs\myproject\app\controllers\AuthController.php on line 58 and exactly 3 expected| Файл:C:\xampp\htdocs\myproject\app\models\UserModel.php|Строка:19
+============
+[2019-01-28 11:36:55] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:08:00] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:08:39] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:09:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:17:57] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:19:12] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:21:41] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:23:02] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:25:42] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:31:47] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:37:22] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 12:55:27] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 13:07:55] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 13:08:50] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 13:19:44] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 13:20:04] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 13:40:16] Текст ошибки: Call to a member function update() on null| Файл:C:\xampp\htdocs\myproject\app\controllers\UserController.php|Строка:54
+============
+[2019-01-28 14:14:31] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 14:14:35] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 14:14:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 14:14:36] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 14:15:24] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 16:07:18] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-28 19:01:21] Текст ошибки: Страница не найдена| Файл:C:\xampp\htdocs\myproject\vendor\project\core\Router.php|Строка:50
+============
+[2019-01-29 09:36:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 09:48:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:20:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:21:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:23] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:23:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:25:55] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-29 11:30:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-29 11:30:37] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-29 12:05:40] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-29 13:54:55] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\UserModel.php | Строка: 55
+============
+[2019-01-29 13:58:53] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 26
+============
+[2019-01-29 13:59:22] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 26
+============
+[2019-01-29 13:59:39] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-29 14:00:17] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-29 14:00:57] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-29 14:01:02] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-29 14:02:36] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-29 14:03:44] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 34
+============
+[2019-01-29 14:03:45] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 34
+============
+[2019-01-29 14:03:47] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 34
+============
+[2019-01-29 14:03:51] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 34
+============
+[2019-01-29 14:05:20] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 34
+============
+[2019-01-29 14:05:25] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:42:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-30 09:46:56] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:46:57] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:46:57] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:46:58] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:46:59] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:47:34] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:47:36] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:15] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:17] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:18] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:21] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:22] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:29] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:48:31] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-30 09:49:21] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:49:49] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:49:50] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:49:50] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:49:52] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:49:52] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 32
+============
+[2019-01-30 09:50:15] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:01] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:01] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:14] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:52] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:53] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:53] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:51:53] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:52:43] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 09:52:43] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 33
+============
+[2019-01-30 11:33:41] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 11:33:45] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 11:34:08] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 11:34:12] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 14:32:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-30 17:52:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-30 17:53:01] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 17:53:04] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 17:53:20] Текст ошибки: Too few arguments to function app\models\ItemModel::addProduct(), 0 passed in C:\xampp\htdocs\myproject\app\controllers\admin\AdminController.php on line 34 and at least 5 expected | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 22
+============
+[2019-01-30 17:57:02] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 17:57:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 18:00:50] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/index.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 18:00:56] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 18:01:05] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/admin\AdminController/add.php | Файл: C:\xampp\htdocs\myproject\vendor\project\core\base\View.php | Строка: 39
+============
+[2019-01-30 19:31:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-30 19:32:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 11:54:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 11:55:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 11:56:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 13:49:33] Текст ошибки: syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\myproject\app\controllers\UserController.php | Строка: 62
+============
+[2019-01-31 14:00:24] Текст ошибки: syntax error, unexpected ';' | Файл: C:\xampp\htdocs\myproject\app\controllers\UserController.php | Строка: 38
+============
+[2019-01-31 14:00:28] Текст ошибки: syntax error, unexpected ';' | Файл: C:\xampp\htdocs\myproject\app\controllers\UserController.php | Строка: 38
+============
+[2019-01-31 15:33:52] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-31 15:34:19] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 24
+============
+[2019-01-31 15:34:38] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 27
+============
+[2019-01-31 15:35:17] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 27
+============
+[2019-01-31 15:35:21] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 27
+============
+[2019-01-31 15:36:00] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:45] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:46] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:46] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:46] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:49] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:36:51] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 28
+============
+[2019-01-31 15:38:08] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 29
+============
+[2019-01-31 15:38:17] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 29
+============
+[2019-01-31 15:38:18] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 29
+============
+[2019-01-31 15:38:19] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 29
+============
+[2019-01-31 15:38:50] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-31 15:38:51] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-31 15:40:12] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-31 15:40:15] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-31 15:40:31] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 31
+============
+[2019-01-31 15:40:48] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 30
+============
+[2019-01-31 15:41:11] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 31
+============
+[2019-01-31 15:42:40] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 31
+============
+[2019-01-31 15:46:53] Текст ошибки: Too few arguments to function updateU(), 2 passed in C:\xampp\htdocs\myproject\public\index.php on line 48 and exactly 3 expected | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 15
+============
+[2019-01-31 15:47:12] Текст ошибки: Call to a member function bind_param() on boolean | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 31
+============
+[2019-01-31 20:12:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:12:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:21:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:24:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:24:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:24:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:25:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:28:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:28:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:28:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:31:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:32:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:33:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:34:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:36:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 20:42:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 21:03:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:25:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:51:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:51:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:51:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:51:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:54:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 22:55:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:08:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:09:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:09:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:58:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:59:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-01-31 23:59:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:32:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:32:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:32:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:33:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:33:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 00:41:43] Текст ошибки: Call to a member function execute() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 39
+============
+[2019-02-01 00:42:09] Текст ошибки: Call to a member function get_result() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 39
+============
+[2019-02-01 08:11:28] Текст ошибки: Call to a member function get_result() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 39
+============
+[2019-02-01 08:11:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:15:42] Текст ошибки: Call to a member function execute() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 39
+============
+[2019-02-01 08:17:12] Текст ошибки: Call to a member function fetch_assoc() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 40
+============
+[2019-02-01 08:20:21] Текст ошибки: Call to undefined function app\models\findAll() | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 13
+============
+[2019-02-01 08:21:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:21:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:21:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:23:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:24:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 08:38:16] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 20
+============
+[2019-02-01 08:40:23] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 20
+============
+[2019-02-01 09:00:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 09:48:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 09:49:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 09:49:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 09:49:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 09:59:26] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 62
+============
+[2019-02-01 11:20:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 11:27:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 11:46:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 12:05:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 12:05:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-01 12:07:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============

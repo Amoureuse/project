@@ -6,11 +6,13 @@ use project\Auth;
 
 class AuthController extends AppController
 {
+    use TValidation;
     
     public function __construct($route)
     {
         parent::__construct($route);
         $this->model = new UserModel();
+        
     }
 
     public function login()
@@ -52,7 +54,9 @@ class AuthController extends AppController
     public function register()
     {
         if (!empty($_POST)) {
-            $errors = $this->checkRegister();
+            $email = $_POST['email'];
+            $user = $this->model->read($email);
+            $errors = $this->validation($user);
             if ($errors !== true) {
                 $oldData = [
                     'email' => $_POST['email'],
@@ -81,33 +85,5 @@ class AuthController extends AppController
         redirect('/');
     }
     
-    public function checkRegister()
-    {
-        if (isset($_POST['submit'])) { 
-            $email = $_POST['email'];
-            $user = $this->model->read($email);
-            
-            if (trim($_POST['username']) == '' || (!ctype_alnum($_POST['username']))) {
-                 $errors[] = 'Некорректный логин!';
-            }
-            if (trim($_POST['email']) == '') {
-                 $errors[] = 'Введите email!';
-            }
-            if (isset($user['email'])) {
-                $errors[] = 'Пользователь с таким email существует';
-            }
-            if ($_POST['pass'] == '') {
-                 $errors[] = 'Введите пароль!';
-            }
-            if ($_POST['pass_2'] != $_POST['pass']) {
-                 $errors[] = 'Пароли не совпадают!';
-            }
-        }
-        if (empty($errors)) {
-            return true;
-        } else {
-            return $errors;
-        }
-    }
     
 }

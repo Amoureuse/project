@@ -42,7 +42,7 @@ class Item
     {
         $image = $this->image;
         if (!$this->image) {
-            $image = "https://d.radikal.ru/d25/1812/7f/085c50292c42.png";
+            $image = "no-image.png";
         }
         return $image;
     }

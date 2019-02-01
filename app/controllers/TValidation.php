@@ -10,17 +10,29 @@ trait TValidation
     public function validation($user)
     {
         if (isset($_POST['submit'])) {
-            if (($_POST['pass_user']) == '') {
-                $errors[] = 'Вы не ввели свой текущий пароль!';
+            if (isset($_POST['pass_user'])) {
+                if (($_POST['pass_user']) == '') {
+                    $errors[] = 'Вы не ввели свой текущий пароль!';
+                }
+                if (!password_verify($_POST['pass_user'], $user['pass'])) {
+                    $errors[] = 'Введённый вами пароль не совпадает с текущим паролем!';
+                }
             }
-            if (!password_verify($_POST['pass_user'], $user['pass'])) {
-                $errors[] = 'Введённый вами пароль не совпадает с текущим паролем!';
+            if (isset($_POST['username'])) {
+                if ((trim($_POST['username'])) == '') {
+                    $errors[] = 'Введите имя пользователя!';
+                }
+                if ((strlen($_POST['username'])) < 4) {
+                    $errors[] = 'Имя пользователя должно содержать не менее 4-х символов!';
+                }
             }
-            if ((trim($_POST['username'])) == '') {
-                $errors[] = 'Введите имя пользователя!';
-            }
-            if ((strlen($_POST['username'])) < 4) {
-                $errors[] = 'Имя пользователя должно содержать не менее 4-х символов!';
+            if (isset($_POST['email'])) {
+                if (trim($_POST['email']) == '') {
+                    $errors[] = 'Введите email!';
+                }
+                if (isset($user['email'])) {
+                    $errors[] = 'Пользователь с таким email существует';
+                }
             }
             if (($_POST['pass']) == '') {
                 $errors[] = 'Введите пароль';;
@@ -28,9 +40,9 @@ trait TValidation
             if ((strlen($_POST['pass'])) < 6) {
                 $errors[] = 'Пароль должен содержать не менее 6-ти символов!';
             }
-            if (!empty($_POST['pass'])) {
+            if (isset($_POST['pass_2'])) {
                 if ($_POST['pass_2'] != $_POST['pass']) {
-                $errors[] = 'Пароли не совпадают!';
+                    $errors[] = 'Пароли не совпадают!';
                 }
             }
         }

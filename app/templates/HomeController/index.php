@@ -11,8 +11,7 @@
     <?php }?>
   </div>
 </div>
-<article>
-  <div class="container">
+<div class="container">
     <div class="row">
     <?php
         foreach ($items as $item) {
@@ -21,6 +20,7 @@
     ?>
     </div>
   </div>
+    <?php if (!empty($lastViewItems)) :?>
   <h5> Недавно просмотренные : </h5>
   <div class="container">
     <div class="row">
@@ -31,7 +31,7 @@
     ?>
     </div>
   </div>
-</article>
+    <?php endif;?>
     <?php 
         if (!$cookieOk) { ?>
   <div>

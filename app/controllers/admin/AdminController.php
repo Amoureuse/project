@@ -31,7 +31,15 @@ Class AdminController extends AppController
     {
         if (isset($_POST['add_product'])) {
             if ($_POST['name'] != '') {
-                $this->model->addProduct();
+                $data = [
+                    'name'=>$_POST['name'],
+                    'description'=>'',
+                    'price'=>'',
+                    'stock'=>'',
+                    'disc'=>'',
+                    'image'=>'',
+                ];
+                $this->model->addProduct($data);
             }    
         }
         $this->view('admin/add', $data=[]);
@@ -41,7 +49,15 @@ Class AdminController extends AppController
     {
         if (isset($_POST['edit_product'])) {
             if ($_POST['name'] != '') {
-                $this->model->updateProduct();
+                $data = [
+                    'name'=>$_POST['name'],
+                    'description'=>'',
+                    'price'=>'',
+                    'stock'=>'',
+                    'disc'=>'',
+                    'image'=>'',
+                ];
+                $this->model->updateProduct($data);
             }   
         }
         $this->view('admin/edit', $data=[]);

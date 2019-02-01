@@ -32,6 +32,25 @@ Class Model
         $data = $result->fetch_assoc();
         return $data;
     }
+    
+    public function findAll($table='')
+    {
+        $table?:$this->table;
+        $stmt = $this->connect->prepare("SELECT * FROM $table");
+        $stmt->execute();
+        $result = $stmt->get_result();
+        $data = $result->fetch_all(MYSQLI_ASSOC);
+        return $data;
+    }
+    
+    public function find($table, $sql)
+    {
+        $stmt = $this->connect->prepare("SELECT * FROM $table WHERE $sql");
+        $stmt->execute();
+        $result = $stmt->get_result();
+        $data = $result->fetch_all(MYSQLI_ASSOC);
+        return $data;
+    }
      
 }
 

@@ -55,4 +55,3 @@ class View {
         return $output;
     }
 }
-

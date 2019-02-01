@@ -33,7 +33,6 @@ class UserModel extends Model
         } else {
             $stmt = $this->connect->prepare("UPDATE users SET username=?, pass =? WHERE id=$id");
             $stmt->bind_param('ss', $username, $password);
-            var_dump($stmt);
         }
         $stmt->execute();
         $result = $stmt->insert_id;

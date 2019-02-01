@@ -14,6 +14,7 @@ Class HomeController extends AppController
         if (!isset($_SESSION['visited'])) {
             $_SESSION['visited'] = array();          
         }
+        $this->model = new ItemModel();
     }
     
     public function index()
@@ -23,18 +24,26 @@ Class HomeController extends AppController
     	    header("Location: /");
     	    die;
         }
-        $model = new ItemModel();
-        $items = $model->get_arr_items();
-        $user = Auth::getUser($model);
+        $items = $this->model->get_arr_items();
+        $user = Auth::getUser();
         $data = [
             'items'=> $items,
             'lastViewItems'=> $this->recViewed ($items),
             'cookieOk' => $this->cookie(),
             'user' => $user,
         ]; 
-        $this->setMeta('Главная страница');
+        $this->setMeta('Все товары');
         $this->set($data);
     
+    }
+    
+    public function main()
+    {
+        $brands = $this->model->findAll('brands');
+        $news = $this->model->find('goods', "new = '1'");
+        $this->setMeta('Главная');
+        $this->set(['brands'=>$brands, 'news'=>$news]);
+        
     }
 
     public function cookie()

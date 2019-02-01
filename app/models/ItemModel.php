@@ -6,11 +6,11 @@ use app\controllers\Item;
 
 class ItemModel extends Model
 {
-    protected $table = 'items';
+    protected $table = 'goods';
     
     public function get_arr_items()
     {
-        $res = $this->connect->query("SELECT * FROM goods");
+        $res = $this->connect->query("SELECT * FROM $this->table");
         $items =$res->fetch_all(MYSQLI_ASSOC);
         $itemsDataObj = [];
         foreach ($items as $item) {
@@ -19,8 +19,9 @@ class ItemModel extends Model
         return $itemsDataObj;
     }
     
-    public function addProduct($name, $description, $price, $stock, $disc, $image=null)
+    public function addProduct($data)
     {
+        extract($data);
         $stmt = $this->connect->prepare("INSERT INTO goods (name, description, price, stock, disc, image) VALUES (?, ?, ?, ?, ?, ?)");
         $stmt->bind_param('ssdiis', $name, $description, $price, $stock, $disc, $image);
         $stmt->execute();
@@ -28,8 +29,9 @@ class ItemModel extends Model
         return $result; 
     }
     
-    public function updateProduct($id, $name, $description, $price, $stock, $disc, $image=null)
+    public function updateProduct($id, $data)
     {
+        extract($data);
         $stmt = $this->connect->prepare("UPDATE goods SET name = ?, description = ?, price = ?, stock = ?, disc = ?, image = ? WHERE id = $id");
         $stmt->bind_param('ssdiis', $name, $description, $price, $stock, $disc, $image);
         $stmt->execute();

@@ -1274,6 +1274,28 @@ h2.account-in:after{
 	display: inline-block;
 	vertical-align: middle;
 }
+h4.account-in{
+	color:#747272;
+	font-size:1.3em;
+	padding:0 0em 2em;
+}
+h4.account-in:after{ 
+	content: "";
+	background: url(../images/line.png)0px 0px;
+	width: 92%;
+	height: 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+div.field{
+    padding-bottom: 5px;
+}
+div.field span {
+    display: block;
+    float: left;
+    width: 280px;
+    height: 30px;
+}
 .account span{
 	font-size:1.1em;
 	padding-right: 1.85em;
@@ -1291,8 +1313,8 @@ span.word{
 	padding:1em 0;
 }
 .account input[type="text"],.account textarea,.account input[type="password"],.account input[type="email"]{
-	padding:0.7em;
-	width:60%;
+	padding:0.6em;
+	width:50%;
 	background:none;
 	border: 1px solid #D1D1D1;
 	border-radius:10px;

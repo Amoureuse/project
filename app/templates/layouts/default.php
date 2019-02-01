@@ -6,6 +6,7 @@
     <?= $this->getMeta();?>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />	
+    <link href="/css/my.css" rel="stylesheet" type="text/css" media="all" />
   </head>
   <body>
     <header>
@@ -22,7 +23,7 @@
           <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Каталог товаров</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Техника</a>
+              <a class="dropdown-item" href="/show">Техника</a>
               <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="/show?id=2">Компьютеры</a>
                 <a class="dropdown-item" href="/show?id=3">Ноутбуки</a>
@@ -43,13 +44,12 @@
       </nav>
     </header>
   
-    <?php 
-        if (isset($_SESSION['error'])) {
-            $mess = splashMessage();?>
-    <div class="<?= $mess['class']?>">
-      <p align="center"><?= $mess['data']?></p>
+    <?php
+        $mess = splashMessage();
+        ?>
+    <div class="<?=$mess['class']?>">
+        <p align="center"><?=$mess['data']?></p>
     </div>
-        <?php } ?>
     <?= $content;?>
   </body>
   <footer>

@@ -1,4 +1,4 @@
-id;name;price;count;disc;description;image
+﻿id;name;price;count;disc;description;image
 1;Монитор;1080;5;10;Some quick example text to build on the card title and make up the bulk of the card's content.;image/m.png
 2;Компьютер;3780;7;10;Some quick example text to build on the card title and make up the bulk of the card's content.;https://d.radikal.ru/d17/1812/9f/ca893de8f555.jpg
 3;Ноутбук;6930;2;10;Some quick example text to build on the card title and make up the bulk of the card's content.;https://c.radikal.ru/c09/1812/dc/3e953e8da20d.jpg
