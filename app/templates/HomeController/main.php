@@ -1,3 +1,12 @@
+    <?php if(isset($_SESSION['logged'])){?>
+  <h4>Привет <?= $user['username']?></h4>
+    <?php if($user['role'] == 'admin'):?>
+  <p><a href="/admin">Панель управления</a></p>
+    <?php endif;?>
+  <p class="wel"><a href="/user">Личный кабинет</a><br><a href="/logout">Выйти</a></p>
+    <?php }else{?>
+  <p class="wel">Здесь вы можете <a href="/login">авторизоваться</a> или <a href="/register">зарегистрировать</a> аккаунт</p>
+    <?php }?>
 <!--баннер-->
 <div class="bnr" id="home">
     <div  id="top" class="callbacks_container">
@@ -37,6 +46,7 @@
 </div>
 <?php endif; ?>
 <?php if ($news) :?>
+<?php $curr = project\App::$app->getProperty('currency'); ?>
 <div class="product">
     <div class="container">
         <div class="product-top">
@@ -48,7 +58,7 @@
                         <div class="product-bottom">
                             <h3><a href="/show?id=<?= $new['id']?>"><?= $new['name'] ?></a></h3>
                             <p><?= $new['description'] ?></p>
-                            <h4><a class="add-to-cart-link" href="#"><i></i></a> <span class=" item_price">₴ <?= $new['price']?></span></h4>
+                            <h4><a class="add-to-cart-link" data-id="<?= $new['id']?>" href="/cart/add?id=<?= $new['id']?>"><i></i></a> <span class=" item_price"><?=$curr['symbol']?> <?= $new['price'] * $curr['value']?></span></h4>
                         </div>
                         <div class="srch">
                             <span><?= $new['disc'] ?>%</span>

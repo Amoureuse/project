@@ -4,6 +4,7 @@ namespace app\controllers;
 
 use app\models\ItemModel;
 use project\Auth;
+use project\Pagination;
 
 Class HomeController extends AppController
 {
@@ -24,14 +25,23 @@ Class HomeController extends AppController
     	    header("Location: /");
     	    die;
         }
-        $items = $this->model->get_arr_items();
         $user = Auth::getUser();
+        
+        $perpage = 3;
+        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+        $total = $this->model->countAll();
+        $pagination = new Pagination($page, $perpage, $total);
+        $start = $pagination->getStart();
+        $items = $this->model->get_arr_items($start, $perpage);
+        
         $data = [
             'items'=> $items,
             'lastViewItems'=> $this->recViewed ($items),
             'cookieOk' => $this->cookie(),
             'user' => $user,
+            'pagination' => $pagination
         ]; 
+        
         $this->setMeta('Все товары');
         $this->set($data);
     
@@ -39,10 +49,10 @@ Class HomeController extends AppController
     
     public function main()
     {
-        $brands = $this->model->findAll('brands');
+        $brands = $this->model->findAll('brands', 'LIMIT 0,3');
         $news = $this->model->find('goods', "new = '1'");
         $this->setMeta('Главная');
-        $this->set(['brands'=>$brands, 'news'=>$news]);
+        $this->set(['brands'=>$brands, 'news'=>$news, 'user' =>Auth::getUser()]);
         
     }
 

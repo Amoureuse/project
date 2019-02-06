@@ -31,9 +31,14 @@ function debug($arr)
     echo '<pre>' . print_r($arr, true) . '</pre>';
 } 
 
-function redirect($str)
+function redirect($str = false)
 {
-    header("Location:" . "$str" );
+    if ($str) {
+        $redirect = $str;
+    } else {
+        $redirect = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '/';
+    }
+    header("Location: $redirect");
     exit;
 }
     

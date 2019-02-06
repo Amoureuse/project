@@ -33,7 +33,7 @@ class Item
             $price = $this->price;
         }
         if ($this->count == 0) {
-            $price = "нет на складе";
+            $price = 0;
         }
         return $price;        
     }
@@ -42,7 +42,7 @@ class Item
     {
         $image = $this->image;
         if (!$this->image) {
-            $image = "no-image.png";
+            $image = "no-image.jpg";
         }
         return $image;
     }

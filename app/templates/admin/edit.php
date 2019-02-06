@@ -353,7 +353,7 @@
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
       <form action="http://myproject/admin/edit" method="post">
-          <p><input class="form-control form-control-lg" type = "number" name = "id" placeholder= "id"></p>
+          <p><input class="form-control form-control-lg" type = "number" name = "id" value="<?=$item['id']?>" disabled></p>
           <p><input class="form-control form-control-lg" type = "text" name = "name" placeholder= "name"></p>
           <p><input class="form-control form-control-lg" type = "text" name = "description" placeholder= "description"></p>
           <p><input class="form-control form-control-lg" type = "number" name = "price" placeholder= "price"></p>

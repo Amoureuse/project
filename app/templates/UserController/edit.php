@@ -1,8 +1,4 @@
-<h5 class="well" style="float:left;
-	font-size:1.5em;
-	font-style:italic;
-        margin-top: 0.5em;" ><a href="/user"style="
-                                                color:#a7a49c; ">Профиль</a></h5>
+<h5 class="pr"><a href="/user"style="color:#a7a49c; ">Профиль</a></h5>
 <div class="container">
   <div class="account">
     <h2 class="account-in">Редактировать пользователя:</h2>

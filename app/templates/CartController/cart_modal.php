@@ -1,0 +1,1 @@
+Количество : <?php echo $quantity;?>

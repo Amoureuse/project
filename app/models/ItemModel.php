@@ -8,9 +8,9 @@ class ItemModel extends Model
 {
     protected $table = 'goods';
     
-    public function get_arr_items()
+    public function get_arr_items($start, $perpage)
     {
-        $res = $this->connect->query("SELECT * FROM $this->table");
+        $res = $this->connect->query("SELECT * FROM $this->table LIMIT $start, $perpage");
         $items =$res->fetch_all(MYSQLI_ASSOC);
         $itemsDataObj = [];
         foreach ($items as $item) {

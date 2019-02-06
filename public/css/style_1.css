@@ -570,7 +570,7 @@ figure.effect-bubba h4,figure.effect-bubba h2 {
 	transform: translate3d(0,-20px,0);
 	opacity:0;
 	color:#fff;
-	font-size: 2.2em;
+	font-size: 2.0em;
     font-family: 'BreeSerif-Regular';
 }
 figure.effect-bubba h4.gal {
@@ -590,7 +590,7 @@ figure.effect-bubba p {
 	-ms-transform: translate3d(0,20px,0);
 	transform: translate3d(0,20px,0);
 	color:#fff;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: 'Lato-Regular';
 }
 figure.effect-bubba:hover figcaption::before,
@@ -721,7 +721,7 @@ a.mask {
     left: 16px;
 }
 .srch span {
-    background: #73B6E1;
+    background: #A9A9A9;
     color: #fff;
     font-size: 15px;
     font-weight: 400;

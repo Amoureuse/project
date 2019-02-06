@@ -1,7 +1,7 @@
 .profile{
     margin-left: 350px;
     margin-bottom: 20px;
-    font-family: Playfair Display, serif;
+    font-family: 'Lato-Regular';
     font-style:italic;
     font-weight:bold;
 }
@@ -12,17 +12,88 @@
 }
 .profile-user{
     margin-top: 20px;
-    font-family: Playfair Display, serif;
-    font-style:italic;
-    font-size: 30px;
+    font-family: 'Lato-Regular';
+    font-style: italic;
+    font-size: 24px;
 }
 .edit-pro{
-    margin-top: 55px;
+    margin-top: 62px;
 }
 .edit-pro a{
-    font-size:1.6em;
-    font-family: Playfair Display, serif;
-    font-style:italic;
+    font-size:1.3em;
+    font-family: 'Lato-Regular';
+    font-style: italic;
     color:#a7a49c;
 }
-
+h5.pr{
+    float:left;
+    font-size:1.5em;
+    font-style:italic;
+    margin-top: 0.5em;
+}
+p.wel{
+    float:left;
+    font-size:1.3em;
+    font-style:italic;
+    margin-top: 0.5em; 
+}
+p.wel a{
+	text-decoration:none;
+	color:#a7a49c;
+}
+p.wel a:hover{
+	color: #f95a32;
+}
+h2.account-in{
+	color:#747272;
+	font-size:1.8em;
+	padding:0 0em 2em;
+}
+h2.account-in:after{ 
+	content: "";
+	background: url(../images/line.png)0px 0px;
+	width: 92%;
+	height: 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+h4.account-in{
+	color:#747272;
+	font-size:1.3em;
+	padding:0 0em 2em;
+}
+h4.account-in:after{ 
+	content: "";
+	background: url(../images/line.png)0px 0px;
+	width: 92%;
+	height: 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+div.field{
+    padding-bottom: 5px;
+}
+div.field span {
+    display: block;
+    float: left;
+    font-size: 20px;
+    width: 280px;
+    height: 30px;
+}
+.account div{
+	padding:1em 0;
+}
+.account input[type="text"],.account textarea,.account input[type="password"],.account input[type="email"]{
+	padding:0.6em;
+	width:50%;
+	background:none;
+	border: 1px solid #D1D1D1;
+	border-radius:10px;
+	-webkit-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	outline:none;
+	color:#464646;
+	font-size:1em;	
+}

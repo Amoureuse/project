@@ -3,16 +3,17 @@
     <?=$this->getMeta();?>
     <base href="/">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">-->
     <!--Custom-Theme-files-->
     <!--theme-style-->
     <link href="css/style_1.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/my.css" rel="stylesheet" type="text/css" media="all" />
+<!--    Menu   -->
+    <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <!--start-menu-->
-    <link href="css/memenu.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 <!--top-header-->
@@ -21,13 +22,11 @@
         <div class="top-header-main">
             <div class="col-md-6 top-header-left">
                 <div class="drop">
-<!--                    <div class="box">
-                        <select tabindex="4" class="dropdown drop">
-                            <option value="" class="label">Dollar :</option>
-                            <option value="1">Dollar</option>
-                            <option value="2">Euro</option>
+                    <div class="box">
+                        <select id="currency" tabindex="4" class="dropdown drop">
+                            <?php new \app\widgets\currency\Currency();?>
                         </select>
-                    </div>-->
+                    </div>
 <!--                    <div class="box1">
                         <select tabindex="4" class="dropdown">
                             <option value="" class="label">English :</option>
@@ -46,7 +45,7 @@
                             <span class="simpleCart_total"></span></div>
                         <img src="images/cart-1.png" alt="" />
                     </a>
-                    <p><a href="javascript:;" class="simpleCart_empty">Корзина</a></p>
+                    <p><a href="cart" class="simpleCart_empty">Корзина</a></p>
                     <div class="clearfix"> </div>
                 </div>
             </div>
@@ -65,101 +64,12 @@
     <div class="container">
         <div class="header">
             <div class="col-md-9 header-left">
-                <div class="top-nav">
-                    <ul class="memenu skyblue"><li class="active"><a href="/">Главная</a></li>
-                        <li class="grid"><a href="#">Ноутбуки</a>
-<!--                            <div class="mepanel">
-                                <div class="row">
-                                    <div class="col1 me-one">
-                                        <h4>Shop</h4>
-                                        <ul>
-                                            <li><a href="products.html">New Arrivals</a></li>
-                                            <li><a href="products.html">Blazers</a></li>
-                                            <li><a href="products.html">Swem Wear</a></li>
-                                            <li><a href="products.html">Accessories</a></li>
-                                            <li><a href="products.html">Handbags</a></li>
-                                            <li><a href="products.html">T-Shirts</a></li>
-                                            <li><a href="products.html">Watches</a></li>
-                                            <li><a href="products.html">My Shopping Bag</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col1 me-one">
-                                        <h4>Style Zone</h4>
-                                        <ul>
-                                            <li><a href="products.html">Shoes</a></li>
-                                            <li><a href="products.html">Watches</a></li>
-                                            <li><a href="products.html">Brands</a></li>
-                                            <li><a href="products.html">Coats</a></li>
-                                            <li><a href="products.html">Accessories</a></li>
-                                            <li><a href="products.html">Trousers</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col1 me-one">
-                                        <h4>Popular Brands</h4>
-                                        <ul>
-                                            <li><a href="products.html">499 Store</a></li>
-                                            <li><a href="products.html">Fastrack</a></li>
-                                            <li><a href="products.html">Casio</a></li>
-                                            <li><a href="products.html">Fossil</a></li>
-                                            <li><a href="products.html">Maxima</a></li>
-                                            <li><a href="products.html">Timex</a></li>
-                                            <li><a href="products.html">TomTom</a></li>
-                                            <li><a href="products.html">Titan</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>-->
-                        </li>
-                        <li class="grid"><a href="#">Компьютеры</a>
-<!--                            <div class="mepanel">
-                                <div class="row">
-                                    <div class="col1 me-one">
-                                        <h4>Shop</h4>
-                                        <ul>
-                                            <li><a href="products.html">New Arrivals</a></li>
-                                            <li><a href="products.html">Blazers</a></li>
-                                            <li><a href="products.html">Swem Wear</a></li>
-                                            <li><a href="products.html">Accessories</a></li>
-                                            <li><a href="products.html">Handbags</a></li>
-                                            <li><a href="products.html">T-Shirts</a></li>
-                                            <li><a href="products.html">Watches</a></li>
-                                            <li><a href="products.html">My Shopping Bag</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col1 me-one">
-                                        <h4>Style Zone</h4>
-                                        <ul>
-                                            <li><a href="products.html">Shoes</a></li>
-                                            <li><a href="products.html">Watches</a></li>
-                                            <li><a href="products.html">Brands</a></li>
-                                            <li><a href="products.html">Coats</a></li>
-                                            <li><a href="products.html">Accessories</a></li>
-                                            <li><a href="products.html">Trousers</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col1 me-one">
-                                        <h4>Popular Brands</h4>
-                                        <ul>
-                                            <li><a href="products.html">499 Store</a></li>
-                                            <li><a href="products.html">Fastrack</a></li>
-                                            <li><a href="products.html">Casio</a></li>
-                                            <li><a href="products.html">Fossil</a></li>
-                                            <li><a href="products.html">Maxima</a></li>
-                                            <li><a href="products.html">Timex</a></li>
-                                            <li><a href="products.html">TomTom</a></li>
-                                            <li><a href="products.html">Titan</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>-->
-                        </li>
-                        <li class="grid"><a href="#">Смартфоны</a>
-                        </li>
-<!--                        <li class="grid"><a href="typo.html">Blog</a>
-                        </li>
-                        <li class="grid"><a href="contact.html">Contact</a>
-                        </li>-->
-                    </ul>
+                <div class="menu-container">
+                    <div class="menu">
+                        <?php new app\widgets\menu\Menu([
+                            'tpl' => ROOT . '/public/menu/menu.php',
+                        ]);?>
+                    </div>
                 </div>
                 <div class="clearfix"> </div>
             </div>
@@ -174,7 +84,11 @@
     </div>
 </div>
 <!--bottom-header-->
-
+<?php
+    $mess = splashMessage();?>
+    <div class="<?=$mess['class']?>">
+        <p align="center"><?=$mess['data']?></p>
+    </div>
 <div class="content">
     <?=$content;?>
 </div>
@@ -237,6 +151,7 @@
 </div>
 <!--footer-end-->
 <script src="js/jquery-1.11.0.min.js"></script>
+<script src="megamenu/js/megamenu.js"></script>
 <script src="js/simpleCart.min.js"> </script>
 <script type="text/javascript" src="js/memenu.js"></script>
 <script>$(document).ready(function(){$(".memenu").memenu();});</script>
@@ -264,6 +179,7 @@
 
     });
 </script>
+<script src="js/main.js"></script>
 <!--End-slider-script-->
 </body>
 </html>
