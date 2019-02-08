@@ -27,6 +27,7 @@ Class AdminController extends AppController
         $total = $this->model->countAll();
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
+        $pagination = $pagination->getHtml();
         $items = $this->model->get_arr_items($start,$perpage);
         $data = [
             'items'=> $items,
@@ -51,7 +52,7 @@ Class AdminController extends AppController
                 $this->model->addProduct($data);
             }    
         }
-        $this->view('admin/add', $data=[]);
+        $this->setMeta('Редактирование товара');
     }
  
     public function edit()
@@ -69,13 +70,12 @@ Class AdminController extends AppController
                 $this->model->updateProduct($data);
             }   
         }
-        $this->view('admin/edit', $data=[]);
     }
     
     public function delete()
     {
         $id = (int)$_GET['id'];
-        $this->model->delete($id);
+        $this->model->delete([$id]);
         redirect();
     }
 

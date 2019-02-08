@@ -4,6 +4,7 @@ namespace project;
 
 class Database
 {
+    public $pdo;
     public $connection;
     public static $_instance;
 
@@ -23,5 +24,7 @@ class Database
             printf($this->connection->connect_error);
             die();
         }
+        $this->pdo = new \PDO('mysql:host = localhost;dbname=shop;charset=utf8', 'root', '', [\PDO::ATTR_ERRMODE=> \PDO::ERRMODE_EXCEPTION,
+        \PDO::ATTR_DEFAULT_FETCH_MODE => \PDO::FETCH_ASSOC]);
     }
 }

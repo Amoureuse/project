@@ -6,31 +6,22 @@ use project\Auth;
 
 class CartModel extends Model
 {
-    protected $table = 'goods';
-    
-    public function addToCart($data)
-    {
-        $this->createCart($data);
-    }
+    protected $table = 'cart';
     
     public function createCart($data)
     {
-        extract($data);
-        $stmt = $this->connect->prepare("INSERT INTO cart (user_id, product_id, quantity, price) VALUES (?, ?, ?, ?)");
-        $stmt->bind_param('iiii', $user_id, $product_id, $quantity, $price);
-        $stmt->execute();
-        $result = $stmt->insert_id;
-        return $result; 
+        $stmt = $this->pdoConnect->prepare("INSERT INTO $this->table (user_id, product_id, quantity, price) VALUES (?, ?, ?, ?)");
+        $stmt->execute($data);
+        $id = $this->pdoConnect->lastInsertId();
+        return $id; 
     }
     
-    public function join($id, $sql)
+    public function readPdo($id)
     {
-        $stmt = $this->connect->prepare("$sql");
-        $stmt->bind_param('i', $id);
-        $stmt->execute();
-        $result = $stmt->get_result();
-        $data = $result->fetch_all(MYSQLI_ASSOC);
-        return $data;
+        $stmt = $this->pdoConnect->prepare("SELECT c.*, g.name FROM $this->table AS c JOIN goods AS g ON c.product_id = g.id WHERE c.user_id = ?");
+        $stmt->execute($id);
+        $result = $stmt->fetchAll();
+        return $result;    
     }
     
 }

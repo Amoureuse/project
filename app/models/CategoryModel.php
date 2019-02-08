@@ -36,4 +36,15 @@ class CategoryModel extends Model
         $result = $stmt->insert_id;
         return $result; 
     }
+    
+    public function count($table, $field, $id)
+    {
+        $stmt = $this->connect->prepare("SELECT COUNT(*) FROM $table WHERE $field");
+        $stmt->bind_param('i', $id);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        $data = $result->fetch_row();
+        return $data[0];
+    }
+    
 }

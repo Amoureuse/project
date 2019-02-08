@@ -33,7 +33,7 @@ class CategoryController extends AppController
             splashMessage($errors, 'alert-danger');
             redirect();
         }
-        $model->delete($id);
+        $model->delete([$id]);
         redirect();
         
     }

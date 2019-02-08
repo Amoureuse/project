@@ -4,34 +4,35 @@ namespace app\controllers;
 
 use app\models\CartModel;
 use \project\Auth;
+use app\models\ItemModel;
 
 class CartController extends AppController
 {
+    public function __construct($route) {
+        parent::__construct($route);
+        $this->model = new CartModel();
+        $this->productModel = new ItemModel();
+    }
+
     public function index()
     {
-        $model = new CartModel();
-        $res = $model->join(Auth::userID(), "SELECT c.*, g.name FROM cart AS c JOIN goods AS g ON c.product_id = g.id WHERE c.user_id = ?");
+        $res = $this->model->readPdo([Auth::userID()]);
         $this->set(['res' =>$res]);
+        $this->setMeta('Корзина');
     }
 
     public function add()
     {
-        $model = new CartModel();
         $id = !empty($_GET['id']) ? (int)$_GET['id'] : null;
         $qty = !empty($_GET['qty']) ? (int)$_GET['qty'] : null;
         if ($id) {
-            $product = $model->readID($id);
+            $product = $this->productModel->readID($id);
             if (!$product) {
                 return false;
             }
         }
-        $data = [
-            'user_id' => Auth::userID(),
-            'product_id' => $product['id'],
-            'quantity' => $qty,
-            'price'=> $product['price']
-        ];
-        $model->addToCart($data);
+        $data = [Auth::userID(), $product['id'], $qty, $product['price']];
+        $this->model->createCart($data);
         if ($this->isAjax()) {
             $data = [
             'product' => $product,
@@ -40,5 +41,12 @@ class CartController extends AppController
             $this->loadView('cart_modal', $data);
         }
         
+    }
+    
+    public function delete()
+    {
+        $id = (int)$_GET['item'];
+        $this->model->delete([$id]);
+        redirect();
     }
 }

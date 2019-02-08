@@ -36,7 +36,7 @@ class Menu
     {
         $model = new CategoryModel();
         if (!$this->menuHtml) {
-            $this->data = $model->getSome("SELECT * FROM {$this->table}");
+            $this->data = $model->getColumnAsKey();
             $this->tree = $this->getTree();
             $this->menuHtml = $this->getMenuHtml($this->tree);
         }

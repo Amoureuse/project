@@ -3,6 +3,7 @@
     <?=$this->getMeta();?>
     <base href="/">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="adminlte/bower_components/font-awesome/css/font-awesome.min.css">
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">-->
     <!--Custom-Theme-files-->
     <!--theme-style-->

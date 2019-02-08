@@ -1,5 +1,5 @@
 <h3>Ваши товары:</h3>
-<table class="table" style="margin-bottom: 50px;">
+<table class="table">
     <tbody>
         <tr>
             <th >Код</th>
@@ -19,10 +19,11 @@ foreach ($res as $item):?>
           <td> <?=$item['price']?></td>
           <td> <?=$item['quantity']?></td>
           <td> <?=$item['quantity']*$item['price']?></td>
+          <td><span><a href="/cart/delete?item=<?=$item['id']?>"><i class="fa fa-lg fa-close text-danger"></i></a></span></td>
         </tr>
     <?php endforeach; ?>
     <tr>
-      <td colspan="4" class="b">Итого</td>
+      <td colspan="4">Итого</td>
       <td>
           <span id="total_cost"><?= isset($totalPrice) ? array_sum($totalPrice):'';?> </span>
       </td>

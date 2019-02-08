@@ -28,7 +28,7 @@ class Currency
     public static function getCurrencies()
     {
         $model = new Model();
-        return $model->getSome('SELECT code, title, symbol, value, base FROM currency ORDER BY base DESC');
+        return $model->getColumnAsKey(true);
     }
     
     public static function getCurrency($currencies)

@@ -32,6 +32,7 @@ Class HomeController extends AppController
         $total = $this->model->countAll();
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
+        $pagination = $pagination->getHtml();
         $items = $this->model->get_arr_items($start, $perpage);
         
         $data = [
