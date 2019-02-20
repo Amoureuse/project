@@ -23,7 +23,7 @@
                   </div> 
                   <div class="form-group">
                     <label for="parent_id">Родительская категория</label>
-                    <?php new \app\widgets\menu\Menu([
+                    <?php new \app\controllers\Menu([
                         'tpl' => ROOT . '/public/menu/select.php',
                         'container' => 'select',
                         'attrs' => [

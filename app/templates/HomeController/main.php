@@ -1,4 +1,4 @@
-    <?php if(isset($_SESSION['logged'])){?>
+    <?php if(project\Auth::userID()){?>
   <h4>Привет <?= $user['username']?></h4>
     <?php if($user['role'] == 'admin'):?>
   <p><a href="/admin">Панель управления</a></p>
@@ -46,22 +46,21 @@
 </div>
 <?php endif; ?>
 <?php if ($news) :?>
-<?php $curr = project\App::$app->getProperty('currency'); ?>
 <div class="product">
     <div class="container">
         <div class="product-top">
             <div class="product-one">
-                <?php foreach ($news as $new) : ?>
+                <?php foreach ($news as $item) : ?>
                 <div class="col-md-3 product-left">
                     <div class="product-main simpleCart_shelfItem">
-                        <a href="/show?id=<?= $new['id']?>" class="mask"><img class="img-responsive zoom-img" src="/images/goods/<?= $new['image'] ?>" alt="" /></a>
+                        <a href="/product/<?= $item->alias?>" class="mask"><img class="img-responsive zoom-img" src="/images/goods/<?= $item->image?>" alt="" /></a>
                         <div class="product-bottom">
-                            <h3><a href="/show?id=<?= $new['id']?>"><?= $new['name'] ?></a></h3>
-                            <p><?= $new['description'] ?></p>
-                            <h4><a class="add-to-cart-link" data-id="<?= $new['id']?>" href="/cart/add?id=<?= $new['id']?>"><i></i></a> <span class=" item_price"><?=$curr['symbol']?> <?= $new['price'] * $curr['value']?></span></h4>
+                            <h3><a href="/product/<?= $item->alias?>"><?= $item->name ?></a></h3>
+                            <p><?= limitStr($item->description, 200) ?></p>
+                            <h4><a class="add-to-cart-link" data-id="<?= $item->id?>" href="/cart/add?id=<?= $item->id?>"><i></i></a> <span class=" item_price"><?= $item->price?></span></h4>
                         </div>
                         <div class="srch">
-                            <span><?= $new['disc'] ?>%</span>
+                            <span><?= $item->disc?>%</span>
                         </div>
                     </div>
                 </div>
@@ -71,3 +70,13 @@
     </div>
 </div>
 <?php endif;?>
+ <?php if (!$cookieOk) { ?>
+  <div>
+    <p>Оставаясь на Веб-сайте, Вы соглашаетесь с размещением файлов cookie на вашем компьютере, с целью анализа использования Веб-сайта. Если вы не хотите принимать файлы cookie, вы должны прекратить использование Веб-сайта</p>
+    <form method="post">
+      <p>Использовать куки:</p>
+        <input name="on" type="checkbox"/>
+        <input name="check" type="submit">
+    </form>
+  </div>
+<?php } ?>

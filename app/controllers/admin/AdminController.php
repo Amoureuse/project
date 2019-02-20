@@ -28,7 +28,7 @@ Class AdminController extends AppController
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
         $pagination = $pagination->getHtml();
-        $items = $this->model->get_arr_items($start,$perpage);
+        $items = $this->model->listItems($filter = [], $field = null, $order = null, $perpage, $start);
         $data = [
             'items'=> $items,
             'pag'=>$pagination
@@ -75,7 +75,7 @@ Class AdminController extends AppController
     public function delete()
     {
         $id = (int)$_GET['id'];
-        $this->model->delete([$id]);
+        $this->model->delete($id);
         redirect();
     }
 

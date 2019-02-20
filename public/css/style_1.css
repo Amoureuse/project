@@ -470,7 +470,7 @@ span.simpleCart_total {
 	background:#000;
 }
 .callbacks_here a:after{
-	background:rgba(6, 107, 195, 0.85);
+	background:rgba(108, 100, 100, 0.85);
 }
 ul.callbacks_tabs.callbacks2_tabs {
 	display: block;
@@ -518,7 +518,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	height: 100%;
 }
 figure.effect-bubba {
-	background: rgba(6, 107, 195, 0.85);
+	background: rgba(108, 100, 100, 0.85);
 }
 figure.effect-bubba:hover img {
 	opacity: 0.3;
@@ -620,6 +620,7 @@ figure.effect-bubba:hover p,figure.effect-bubba:hover h2 {
 .product-main {
     padding: 1em 0px 2.7em 0px;
     border:1px solid #ECEAEA;
+    height: 450px;
 }
 .product {
     padding: 3em 0px 6em 0px;
@@ -628,7 +629,6 @@ figure.effect-bubba:hover p,figure.effect-bubba:hover h2 {
     font-size: 16px;
     color: #000;
     margin: 0;
-    text-transform: uppercase;
 	font-family: 'BreeSerif-Regular';
 }
 .product-bottom h4 span{
@@ -651,7 +651,7 @@ figure.effect-bubba:hover p,figure.effect-bubba:hover h2 {
 .product-bottom {
     text-align: left;
     margin-top: 20px;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 .product-bottom p {
 	font-size: 12px;
@@ -688,7 +688,7 @@ a.mask {
     padding: 12px 0px;
 }
 .product-left:hover .product-bottom h3{
-	color:#73B6E1;
+	color:#808080;
 	transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
@@ -696,7 +696,7 @@ a.mask {
     -ms-transition: 0.5s all ease;
 }
 .product-left:hover .product-bottom h4 span{
-	color:#73B6E1;
+	color:#808080;
 	transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
@@ -704,7 +704,7 @@ a.mask {
     -ms-transition: 0.5s all ease;
 }
 .product-left:hover .product-main{
-	border:1px solid #73B6E1;
+	border:1px solid #808080;
 	transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
@@ -1676,15 +1676,16 @@ ul.tag-men li span.women1 {
 a.add-cart {
     text-decoration: none;
     color: #fff;
-    background: #000;
+    background: #696969;
     padding: 0.4em 0.8em;
-    font-size: 1.15em;
+    font-size: 1em;
     text-transform: uppercase;
-    margin-top: 2em;
+    margin-top: 0.5em;
     display: inline-block;
 }
 a.add-cart:hover {
-	background: #73b6e1;
+        color: #000;
+	background: #D3D3D3;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-o-transition: 0.5s all;

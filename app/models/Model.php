@@ -20,7 +20,7 @@ Class Model
         public function delete($id)
     {
         $stmt = $this->pdoConnect->prepare("DELETE FROM $this->table WHERE id = ? ");
-        $result = $stmt->execute($id);
+        $result = $stmt->execute([$id]);
         return $result;
     }
     

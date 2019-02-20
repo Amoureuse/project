@@ -19,9 +19,16 @@ class CartModel extends Model
     public function readPdo($id)
     {
         $stmt = $this->pdoConnect->prepare("SELECT c.*, g.name FROM $this->table AS c JOIN goods AS g ON c.product_id = g.id WHERE c.user_id = ?");
-        $stmt->execute($id);
+        $stmt->execute([$id]);
         $result = $stmt->fetchAll();
         return $result;    
+    }
+    
+    public function deleteCart($user_id)
+    {
+        $stmt = $this->pdoConnect->prepare("DELETE FROM $this->table WHERE user_id = ? ");
+        $result = $stmt->execute([$user_id]);
+        return $result;
     }
     
 }

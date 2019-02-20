@@ -11,11 +11,13 @@ class Item
     public $disc;
     public $description;
     public $image;
+    public $alias;
 
     public function __construct($item)
     {
         $this->id = $item['id'];
-        $this->name = $item['name'];            
+        $this->name = $item['name'];  
+        $this->alias = $item['alias'];
         $this->count = $item['stock'];
         $this->disc = $item['disc'];
         $this->description = $item['description'];
@@ -28,12 +30,12 @@ class Item
 
     protected function getPrice()
     {
-        $price = $this->price - ($this->price * $this->disc / 100);
+        $price = round($this->price - ($this->price * $this->disc / 100));
         if ($this->count < 2) {
             $price = $this->price;
         }
         if ($this->count == 0) {
-            $price = 0;
+            $price = null;
         }
         return $price;        
     }

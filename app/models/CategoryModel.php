@@ -47,4 +47,13 @@ class CategoryModel extends Model
         return $data[0];
     }
     
+    public function readCat($alias)
+    {
+        $stmt = $this->pdoConnect->prepare("SELECT * FROM $this->table WHERE alias = ?");
+        $stmt->execute([$alias]);
+        $result = $stmt->fetch();
+        return $result; 
+    }
+    
+    
 }

@@ -1,9 +1,14 @@
 {
     "autoload":{
         "psr-4":{
-            "project\\":"vendor/project/core",
+            "project\\":"core",
             "app\\":"app"
         }
     },
-    "require": {}
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1"
+    },
+    "require-dev": {
+        "symfony/dotenv": "^4.2"
+    }
 }

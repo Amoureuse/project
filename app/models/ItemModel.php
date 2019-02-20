@@ -8,17 +8,6 @@ class ItemModel extends Model
 {
     protected $table = 'goods';
     
-    public function get_arr_items($start, $perpage)
-    {
-        $res = $this->connect->query("SELECT * FROM $this->table LIMIT $start, $perpage");
-        $items =$res->fetch_all(MYSQLI_ASSOC);
-        $itemsDataObj = [];
-        foreach ($items as $item) {
-            $itemsDataObj[] = new Item($item);
-        }
-        return $itemsDataObj;
-    }
-    
     public function addProduct($data)
     {
         extract($data);
@@ -37,42 +26,68 @@ class ItemModel extends Model
         $stmt->execute();
         return true; 
     }
-    
-    public function listItems($filter = [], $fields = null, $order = null, $limit = false, $offset = false)
+    /**
+     * Filtered selection from database.
+     * 
+     * @param array $filter
+     * @param string $fields
+     * @param string $order
+     * @param int $limit
+     * @param int $offset
+     * @return array of objects Item
+     */
+    public function listItems($filter = [], $fields = null, $order = null, $limit = null, $offset = null)
     {
         if(!$fields) {
             $fields = ['*'];
-        }
-        if (!$order) {
-            $order = '';
-        }
-        
+        }   
         $sql = " FROM $this->table ";
         
         if (!empty($filter)) {
             $sql = $sql. ' WHERE ';
-            if (key_exists('cat', $filter)) {
-                $sql .= ' category_id = ? AND';
+            if (key_exists('ids', $filter)) {
+                $ids = explode(',', $filter['ids']);
+                $in = join(',', array_fill(0, count($ids), '?'));
+                $sql .= " category_id IN ({$filter['ids']}) AND";
             }
-            if (key_exists('priceM', $filter)) {
-                $sql .= ' price < ? AND';
+            if (key_exists('brand', $filter)) {
+                $sql .= ' brand_id = ? AND';
             }
-//            if (key_exists('ids', $filter)) {
-//                $sql .= ' id IN ?';
-//                $filter['ids'] = "(". join(",", $filter['ids']) .")";
-//            }
+            if (key_exists('priceMin', $filter) || key_exists('priceMax', $filter)) {
+                $sql .= " price BETWEEN ? AND ? AND";
+            }
+            if (key_exists('alias', $filter)) {
+                $sql .= ' alias = ? AND';
+            }
+            if (key_exists('search', $filter)) {
+                $sql .= " name LIKE '%" . $filter['search'] . "%' AND";
+            }
+            $sql = rtrim($sql, 'AND');
         }
-        if (!empty($order)) {
-            $sql .= ' ORDER BY ';
-            if (in_array('cat', $order)) {
-                $sql .= ' category_id ';
+        
+        if ($fields) {
+            switch ($fields)
+            {
+                case 'count';
+                $sql = 'SELECT COUNT(*) AS count'.$sql;
+                break;
+            
+                case 'min';
+                $sql = 'SELECT MIN(price) AS min'.$sql;
+                break;
+                
+                case 'max';
+                $sql = 'SELECT MAX(price) AS max'.$sql;
+                break;
+            
+                default :
+                $sql = 'SELECT ' .join(",", $fields) .$sql;
+                break;
             }
-            if (in_array('price', $order)) {
-                $sql .= ' price ';
-                if (in_array('d', $order)) {
-                    $sql .= 'DESC';
-                }
-            } 
+        }
+        
+        if ($order['sort']) {
+            $sql .= " ORDER BY {$order['sort']}";
         }
         if ($limit) {
             $sql .= " LIMIT $limit ";
@@ -80,24 +95,28 @@ class ItemModel extends Model
                 $sql .= " OFFSET $offset ";
             }
         }
-        
-        if ($fields) {
-            if ($fields == 'count') {
-                $sql = 'SELECT COUNT(*) '.$sql;
-            } else {
-                $sql = 'SELECT ' .join(",", $fields) .$sql;
-            }
-        }
-        $stmt = $connect->prepare($sql);
-        $array_of_values = [];
+        $stmt = $this->pdoConnect->prepare($sql);
+        debug($sql);
+        $params = [];
         if (!empty($filter)) {
-            foreach ($filter as $key => $fl) {
-                $array_of_values[] = $fl;
+              
+            foreach($filter as $field => $value) {
+                if ($field != 'ids' && $field != 'search') {
+                    $params[] = $value;
+                }
             }
         }
-        $stmt->execute($array_of_values);
+        $stmt->execute($params);
         $data = $stmt->fetchAll();
-        return $data;
+        
+        if ($fields == 'count' || $fields == 'min' || $fields == 'max') {
+            return $data[0];
+        }
+        $items = [];
+        foreach ($data as $item) {
+            $items[] = new Item($item);
+        }
+        return $items;
     }
     
 }

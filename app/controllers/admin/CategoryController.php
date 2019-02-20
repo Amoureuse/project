@@ -33,7 +33,7 @@ class CategoryController extends AppController
             splashMessage($errors, 'alert-danger');
             redirect();
         }
-        $model->delete([$id]);
+        $model->delete($id);
         redirect();
         
     }
@@ -63,7 +63,6 @@ class CategoryController extends AppController
             App::$app->setProperty('parent_id', $category['parent_id']);
             $this->set(['category' => $category]);
         }
-
         $this->setMeta('Редактирование категории');
     }
     

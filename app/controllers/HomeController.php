@@ -18,42 +18,51 @@ Class HomeController extends AppController
         $this->model = new ItemModel();
     }
     
-    public function index()
+//    public function index()
+//    {
+//        
+//        $user = Auth::getUser();
+//        
+//        $perpage = 3;
+//        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+//        $total = $this->model->countAll();
+//        $pagination = new Pagination($page, $perpage, $total);
+//        $start = $pagination->getStart();
+//        $pagination = $pagination->getHtml();
+//        $items = $this->model->get_arr_items($start, $perpage);
+//        
+//        $lastItem =  $this->model->listItems();
+//        $lastViewed = [];
+//        foreach ($lastItem as $item) {
+//            $lastViewed[] = new Item($item);
+//        }
+//        $data = [
+//            'items'=> $items,
+//            'lastViewItems'=> $this->recViewed ($lastViewed),
+//            'cookieOk' => $this->cookie(),
+//            'user' => $user,
+//            'pagination' => $pagination
+//        ]; 
+//        
+//        $this->setMeta('Все товары');
+//        $this->set($data);
+//    
+//    }
+    
+    public function main()
     {
         if ((isset($_POST['check'])) and (isset($_POST['on']))) {
             setcookie('check','yes', time() +3600*24*365);
     	    header("Location: /");
     	    die;
         }
-        $user = Auth::getUser();
-        
-        $perpage = 3;
-        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
-        $total = $this->model->countAll();
-        $pagination = new Pagination($page, $perpage, $total);
-        $start = $pagination->getStart();
-        $pagination = $pagination->getHtml();
-        $items = $this->model->get_arr_items($start, $perpage);
-        
-        $data = [
-            'items'=> $items,
-            'lastViewItems'=> $this->recViewed ($items),
-            'cookieOk' => $this->cookie(),
-            'user' => $user,
-            'pagination' => $pagination
-        ]; 
-        
-        $this->setMeta('Все товары');
-        $this->set($data);
-    
-    }
-    
-    public function main()
-    {
         $brands = $this->model->findAll('brands', 'LIMIT 0,3');
-        $news = $this->model->find('goods', "new = '1'");
+        $new = $this->model->find('goods', "new = '1'");
+        foreach ($new as $item) {
+            $news[] = new Item($item);
+        }
         $this->setMeta('Главная');
-        $this->set(['brands'=>$brands, 'news'=>$news, 'user' =>Auth::getUser()]);
+        $this->set(['brands'=>$brands, 'news'=>$news, 'user' =>Auth::getUser(), 'cookieOk' => $this->cookie()]);
         
     }
 
@@ -81,6 +90,65 @@ Class HomeController extends AppController
 	    }
         }
         return $f_Items;
+    }
+    
+    public function search()
+    {
+        if (!empty(trim($_GET['s']))) {
+            $query = $_GET['s'];
+            $query = htmlspecialchars($query);
+            $filter = [];
+        if(isset($_GET['s'])) {
+            $filter['search'] = $query;
+        }
+        if (isset($_GET['brand'])) {
+            $filter['brand'] = $_GET['brand'];
+        }
+        if (isset($_GET['price'])) {
+            $price = explode('-', $_GET['price']);
+            $filter['priceMin'] = (int)$price[0];
+            $filter['priceMax'] = (int)$price[1];
+        }
+        if ((!empty($_POST['price'])) || (!empty($_POST['price2']))) {
+            $min = $this->model->listItems($filter = [], $fields = 'min')['min'];
+            $max = $this->model->listItems($filter = [], $fields = 'max')['max'];
+            $priceMin = (int)$_POST['price']?: $min;
+            $priceMax = (int)$_POST['price2'] ?: $max;
+            $price = $priceMin . "-" . $priceMax;
+            $url = filterUrl($alias, 'price', $price);
+            redirect($url);
+        }
+        
+        $sort = isset($_GET['sort']) ? $_GET['sort'] : '';
+        switch ($sort)
+        {
+            case 'price-asc';
+            $sort = 'price ASC';
+            break;
+            
+            case 'price-desc';
+            $sort = 'price DESC';
+            break;
+        
+            default :
+            $sort = 'id DESC';
+            break;
+        }
+        
+        $perpage = 5;
+        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+        $total = $this->model->listItems($filter, $fields = 'count', ['sort' => $sort]);
+        $total = $total['count'];
+        $pagination = new Pagination($page, $perpage, $total);
+        $start = $pagination->getStart();
+        $pagination = $pagination->getHtml();
+        
+        $products = $this->model->listItems($filter, $fields = null, ['sort' => $sort], $perpage, $start);
+        $brands = $this->model->findAll('brands');
+            $this->setMeta('Поиск по: ' . $query);
+            $this->set(compact('search', 'query', 'products','brands','pagination'));
+            debug($_GET);
+        }
     }
 	
 }

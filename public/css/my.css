@@ -97,3 +97,79 @@ div.field span {
 	color:#464646;
 	font-size:1em;	
 }
+
+span.price-block{
+    text-decoration: none;
+    color: #fff;
+    background: #FFDAB9;
+    padding: 0.4em 0.8em;
+    font-size: 0.8em;
+    margin-top: 0.7em;
+    display: inline-block;
+}
+.quantity{
+    margin-top: 25px;
+}
+.desc-text p{
+    background-color: #fff;
+}
+
+.product-main-cat {
+    padding: 1em 0px 2.7em 0px;
+    border:1px solid #ECEAEA;
+    height: 500px;
+}
+.pag{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+.filter{
+    float: right;
+}
+.filter-sort{
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.filter-sort a{
+    margin-left: 20px;
+    font-size: 16px;
+    text-decoration: none;
+}
+.filter-b a{
+    font-size: 16px;
+    text-decoration: none;
+}
+.filter-price input{
+    padding:0.4em;
+    width:25%;
+    background:none;
+    border: 1px solid #D1D1D1;
+    border-radius:8px;
+        -webkit-border-radius: 8px;
+        -o-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+    outline:none;
+    color:#464646;
+    font-size:1em;
+    margin-top: 20px;
+    margin-left: 10px;   
+}
+.filter-price span{
+    margin-left: 10px;
+    font-size: 1.5em;
+}
+.filter-price button{
+    display: inline-block;
+    padding: 4px 12px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}

@@ -1,12 +1,17 @@
-<div class="container">
-    <div class="row">
+<div class="product">
+  <div class="container">
+    <div class="product-top">
+      <div class="product-one">
     <?php
         foreach ($items as $item) {
             include ROOT . '/app/templates/components/cards.php';
         }
     ?>
+      </div>
     </div>
   </div>
+</div>
+
 <div style="
     margin-left: auto;
     margin-right: auto;

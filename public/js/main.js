@@ -11,7 +11,7 @@ $('body').on('click', '.add-to-cart-link', function(e){
             showCart(res);
         },
         error: function(){
-            alert('Ошибка! Попробуйте позже');
+//            alert('Ошибка! Попробуйте позже');
         }
     });
 });

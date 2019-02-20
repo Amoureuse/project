@@ -3092,3 +3092,2427 @@
 ============
 [2019-02-08 16:24:14] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '6' AND price = '23915'' at line 1 | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 35
 ============
+[2019-02-08 17:52:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-08 18:36:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-09 13:04:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\vendor\project\core\Router.php | Строка: 56
+============
+[2019-02-10 12:19:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:20:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:20:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:35:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:36:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:36:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:37:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:37:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:38:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:38:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:38:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:39:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:39:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:39:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 56
+============
+[2019-02-10 12:40:15] Текст ошибки: Call to undefined method app\controllers\ProductController::index() | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 50
+============
+[2019-02-10 12:42:45] Текст ошибки: Call to undefined method app\controllers\ProductController::index() | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 50
+============
+[2019-02-10 12:43:04] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:43:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:48:45] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:50:23] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:50:23] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:50:25] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:51:50] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:51:53] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:52:15] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:55:26] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:55:27] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 12:56:31] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 13:00:16] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 13:01:44] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 13:01:58] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/ProductController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-10 13:10:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 13:10:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 13:52:24] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 91
+============
+[2019-02-10 13:52:34] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 91
+============
+[2019-02-10 13:52:37] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 91
+============
+[2019-02-10 13:54:20] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 91
+============
+[2019-02-10 13:54:52] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 98
+============
+[2019-02-10 13:55:11] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 99
+============
+[2019-02-10 13:58:46] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 98
+============
+[2019-02-10 13:59:08] Текст ошибки: Call to a member function prepare() on null | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 98
+============
+[2019-02-10 13:59:22] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE alias = 'notebook-asus-vivobook-15-x510uf-bq004'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 99
+============
+[2019-02-10 13:59:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE alias = 'notebook-asus-vivobook-15-x510uf-bq004'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 100
+============
+[2019-02-10 14:00:37] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM goods  WHERE alias = 'notebook-asus-vivobook-15-x510uf-bq004'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 100
+============
+[2019-02-10 14:10:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 15
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:22:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:32:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:35:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:36:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:37:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:38:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:42:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:44:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:45:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:46:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:47:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:48:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:50:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:50:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:50:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:51:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:57:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 14:58:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:05:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:13:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:14:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:15:05] Текст ошибки: Call to a member function fetch_all() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 52
+============
+[2019-02-10 15:18:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 101
+============
+[2019-02-10 15:31:21] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 101
+============
+[2019-02-10 15:31:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 16
+============
+[2019-02-10 15:31:23] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 101
+============
+[2019-02-10 15:31:23] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 101
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:31:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:32:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:33:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:34:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:35:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:36:45] Текст ошибки: Call to undefined method PDOStatement::fetchRow() | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-10 15:36:56] Текст ошибки: Call to undefined method PDOStatement::fetchColunm() | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:38:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:39:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:40:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:42:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:43:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:50:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:02] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' | Файл: C:\xampp\htdocs\myproject\app\models\ImageModel.php | Строка: 22
+============
+[2019-02-10 15:51:17] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' | Файл: C:\xampp\htdocs\myproject\app\models\ImageModel.php | Строка: 22
+============
+[2019-02-10 15:51:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 18
+============
+[2019-02-10 15:51:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 18
+============
+[2019-02-10 15:51:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 18
+============
+[2019-02-10 15:51:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 18
+============
+[2019-02-10 15:51:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 18
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:51:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:55:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:55:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:55:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:12] Текст ошибки: syntax error, unexpected '<' | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 27
+============
+[2019-02-10 15:57:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:57:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:59:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:59:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 15:59:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:00:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:00:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:00:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:01:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:02:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:03:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:04:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:04:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:04:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:06:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:06:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:06:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:07:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:08:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:08:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:08:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:39:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:40:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:42:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:43:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:23] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:45:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:46:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:47:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:48:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:49:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:51:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:52:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:53:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:57:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:57:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 16:57:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:00:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:01:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:01:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:01:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 17:07:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:30:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:30:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:30:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:23] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:23] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:23] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:33:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:43:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:43:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 18:43:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:17:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:17:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:17:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:25:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:25:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:25:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:27:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:27:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:27:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:27:19] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:27:26] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:28:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:28:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:28:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:28:57] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:29:03] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:29:10] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:29:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:29:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:29:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:29:59] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:30:35] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-10 20:30:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:30:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:30:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 20:57:17] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\myproject\app\templates\components\cards.php | Строка: 23
+============
+[2019-02-10 20:58:25] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\myproject\app\templates\components\cards.php | Строка: 25
+============
+[2019-02-10 20:59:13] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\myproject\app\templates\components\cards.php | Строка: 27
+============
+[2019-02-10 20:59:39] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\myproject\app\templates\components\cards.php | Строка: 27
+============
+[2019-02-10 21:11:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:11:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:11:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:43:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:43:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:43:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:47:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:47:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:47:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:57:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:57:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 21:57:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:31:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:31:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:31:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:34:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:34:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:34:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:36:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:55:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:55:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:55:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 22:56:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 23:14:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 23:14:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-10 23:14:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 10:34:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 10:34:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 10:34:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 10:34:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 10:45:38] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 58
+============
+[2019-02-11 10:50:07] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 10:55:19] Текст ошибки: Too few arguments to function app\models\CategoryModel::readCats(), 0 passed in C:\xampp\htdocs\myproject\app\controllers\CategoryController.php on line 17 and exactly 1 expected | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 50
+============
+[2019-02-11 10:55:21] Текст ошибки: Too few arguments to function app\models\CategoryModel::readCats(), 0 passed in C:\xampp\htdocs\myproject\app\controllers\CategoryController.php on line 17 and exactly 1 expected | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 50
+============
+[2019-02-11 10:55:36] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 10:55:58] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 10:56:18] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 10:57:45] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 11:09:24] Текст ошибки: Call to a member function execute() on boolean | Файл: C:\xampp\htdocs\myproject\app\models\Model.php | Строка: 41
+============
+[2019-02-11 11:10:25] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 11:10:40] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 11:17:06] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 11:17:09] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CategoryController/index.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 11:19:59] Текст ошибки: Call to undefined function app\models\getIds() | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 67
+============
+[2019-02-11 11:26:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:26:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:26:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:26:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:27:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:27:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:28:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:28:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:28:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:28:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:29:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:29:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:33:20] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''8,9,10,11,12'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 74
+============
+[2019-02-11 11:34:41] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''()'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:35:23] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''(8,9,10,11,12)'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:42:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''(7)'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:42:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''()'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:42:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''()'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:42:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''()'' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 11:42:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:42:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:42:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:42:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:42:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:42:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:51:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:51:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 11:51:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 12:15:14] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 75
+============
+[2019-02-11 12:15:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 76
+============
+[2019-02-11 12:17:26] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\CategoryModel.php | Строка: 76
+============
+[2019-02-11 13:15:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:15:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:15:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:19:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:19:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:19:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:28:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 13:54:08] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-11 13:54:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-11 13:55:21] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:55:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:55:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:56:29] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:58:00] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:58:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:58:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 13:59:29] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-11 13:59:30] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 102
+============
+[2019-02-11 13:59:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 14:00:18] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 103
+============
+[2019-02-11 14:00:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:02:02] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:02:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:02:55] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:04:49] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:06:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:12:11] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 104
+============
+[2019-02-11 14:14:19] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-11 14:14:19] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-11 14:14:38] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-11 14:18:51] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-11 14:21:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-11 14:23:46] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 111
+============
+[2019-02-11 14:24:01] Текст ошибки: Cannot use object of type stdClass as array | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 20
+============
+[2019-02-11 14:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:24:58] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 111
+============
+[2019-02-11 14:25:07] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 111
+============
+[2019-02-11 14:25:08] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 111
+============
+[2019-02-11 14:25:28] Текст ошибки: Cannot use object of type stdClass as array | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 20
+============
+[2019-02-11 14:25:36] Текст ошибки: Cannot use object of type stdClass as array | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 20
+============
+[2019-02-11 14:25:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:25:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:25:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:26:58] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'product_id' cannot be null | Файл: C:\xampp\htdocs\myproject\app\models\CartModel.php | Строка: 14
+============
+[2019-02-11 14:28:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:28:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:28:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:28:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:28:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:28:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:36:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:36:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:36:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:39:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:54:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:54:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:54:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 14:55:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 15:26:51] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 27
+============
+[2019-02-11 15:41:49] Текст ошибки: Call to undefined method app\controllers\CategoryController::getColumnAsKey() | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 31
+============
+[2019-02-11 15:46:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 15:46:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 15:46:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 19:55:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:02:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:02:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:02:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:03:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:03:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:17:01] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 58
+============
+[2019-02-11 20:18:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 20:19:31] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/HomeController/search.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-11 21:06:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 21:27:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 21:28:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 21:28:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 21:28:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:44:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:48:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:51:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-11 22:51:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 11:29:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 13:38:14] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:27] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:27] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:28] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:28] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:28] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:28] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:28] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:38:29] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\CartController.php | Строка: 35
+============
+[2019-02-12 13:52:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 13:52:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 13:52:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 14:36:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 14:36:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 14:38:44] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/order.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-12 15:24:29] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 12
+============
+[2019-02-12 15:25:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 13
+============
+[2019-02-12 16:14:24] Текст ошибки: Call to a member function readPdo() on null | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 21
+============
+[2019-02-12 16:14:46] Текст ошибки: Call to a member function readPdo() on null | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 21
+============
+[2019-02-12 16:15:01] Текст ошибки: Call to a member function readPdo() on null | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 21
+============
+[2019-02-12 16:15:13] Текст ошибки: Call to undefined method app\models\OrderModel::readPdo() | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 21
+============
+[2019-02-12 16:15:58] Текст ошибки: Class 'app\models\Auth' not found | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 21
+============
+[2019-02-12 16:16:20] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 29
+============
+[2019-02-12 16:16:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 30
+============
+[2019-02-12 16:18:38] Текст ошибки: Call to a member function readPdo() on null | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 24
+============
+[2019-02-12 16:19:55] Текст ошибки: Call to a member function readPdo() on null | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 24
+============
+[2019-02-12 16:20:03] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 24
+============
+[2019-02-12 16:23:39] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 24
+============
+[2019-02-12 16:26:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 28
+============
+[2019-02-12 16:26:42] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 28
+============
+[2019-02-12 16:27:55] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:28:16] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:28:28] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:30:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:31:10] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:33:21] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:33:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:33:37] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:34:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:35:51] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:36:29] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:36:57] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:37:08] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:37:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 16:37:57] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 27
+============
+[2019-02-12 17:18:55] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 23
+============
+[2019-02-12 17:20:15] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 23
+============
+[2019-02-12 17:20:47] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 23
+============
+[2019-02-12 17:20:53] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?)' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\OrderModel.php | Строка: 23
+============
+[2019-02-12 21:15:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:15:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:15:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:27:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:27:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:27:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 21:44:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:50:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:50:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:50:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:51:34] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\ProductController.php | Строка: 21
+============
+[2019-02-12 22:52:07] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:52:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:52:12] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:52:14] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:52:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:52:18] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:54:11] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:54:17] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 22
+============
+[2019-02-12 22:55:37] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 23
+============
+[2019-02-12 22:55:42] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\ProductController\index.php | Строка: 23
+============
+[2019-02-12 22:57:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:57:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-12 22:57:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-13 07:58:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-13 07:59:02] Текст ошибки: SQLSTATE[HY000]: General error: could not call class constructor | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 110
+============
+[2019-02-13 13:27:26] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\HomeController.php | Строка: 82
+============
+[2019-02-13 18:14:44] Текст ошибки: Call to undefined method app\models\ItemModel::countAll() | Файл: C:\xampp\htdocs\myproject\app\controllers\HomeController.php | Строка: 32
+============
+[2019-02-14 15:08:07] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 9
+============
+[2019-02-14 15:08:20] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\controllers\Item.php | Строка: 18
+============
+[2019-02-14 15:09:13] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 9
+============
+[2019-02-14 15:43:42] Текст ошибки: Call to undefined function app\controllers\int() | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 26
+============
+[2019-02-14 15:44:30] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 112
+============
+[2019-02-14 15:49:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 15:50:08] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:55] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:56] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:57] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:50:59] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:51:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 112
+============
+[2019-02-14 15:55:05] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:55:37] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:55:38] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:55:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:55:46] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 15:57:02] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 15:57:16] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 15:57:17] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 15:57:18] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 16:00:11] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 106
+============
+[2019-02-14 16:00:40] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 106
+============
+[2019-02-14 16:02:34] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-14 16:02:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-14 16:02:59] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 108
+============
+[2019-02-14 16:04:29] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 117
+============
+[2019-02-14 16:04:49] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 117
+============
+[2019-02-14 16:07:31] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 113
+============
+[2019-02-14 20:47:31] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 20:48:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 20:49:50] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:49:50] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:26] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:42] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:42] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:50:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:51:18] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:52:44] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:53:21] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:53:55] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 114
+============
+[2019-02-14 20:59:25] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:39] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:47] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:51] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 20:59:55] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 21:00:40] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 21:02:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 115
+============
+[2019-02-14 21:02:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:04:21] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:04:22] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:04:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:04:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:30] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:30] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:31] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:31] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:31] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:32] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:32] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:33] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-14 21:05:34] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 116
+============
+[2019-02-15 16:26:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-15 16:32:10] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:32:59] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:33:29] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:34:15] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:36:11] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:36:15] Текст ошибки: Class 'app\controllers\Pagination' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 32
+============
+[2019-02-15 16:36:30] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:17] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:20] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:20] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:21] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:21] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:37:28] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:38:02] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:39:24] Текст ошибки: Call to undefined method PDOStatement::fetch_row() | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 119
+============
+[2019-02-15 16:41:13] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:41:47] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:42:00] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 16:57:47] Текст ошибки: syntax error, unexpected '*' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 119
+============
+[2019-02-15 16:57:57] Текст ошибки: syntax error, unexpected '*' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 119
+============
+[2019-02-15 16:57:58] Текст ошибки: syntax error, unexpected '*' | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 119
+============
+[2019-02-15 17:00:31] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 17:01:37] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 17:01:41] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 17:01:42] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 17:01:42] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 17:01:43] Текст ошибки: Unsupported operand types | Файл: C:\xampp\htdocs\myproject\core\Pagination.php | Строка: 58
+============
+[2019-02-15 18:58:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-17 14:22:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-17 14:25:47] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\AppController.php | Строка: 15
+============
+[2019-02-17 14:25:52] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\AppController.php | Строка: 15
+============
+[2019-02-17 14:30:12] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\search.php | Строка: 23
+============
+[2019-02-17 14:45:57] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 56
+============
+[2019-02-17 14:46:46] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 56
+============
+[2019-02-17 14:47:42] Текст ошибки: Cannot use object of type app\controllers\Item as array | Файл: C:\xampp\htdocs\myproject\app\templates\HomeController\main.php | Строка: 56
+============
+[2019-02-17 16:03:48] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:03:51] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:05:00] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:05:34] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:06:15] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:06:20] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:09:16] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:31:33] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 16:32:32] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-17 21:11:09] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:15] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:30] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:30] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:37] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:55] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:11:58] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:12:25] Текст ошибки: Call to undefined function filterUrl() | Файл: C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php | Строка: 26
+============
+[2019-02-17 21:13:02] Текст ошибки: Too few arguments to function filterUrl(), 0 passed in C:\xampp\htdocs\myproject\public\index.php on line 56 and at least 1 expected | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 42
+============
+[2019-02-17 21:13:33] Текст ошибки: Too few arguments to function filterUrl(), 0 passed in C:\xampp\htdocs\myproject\public\index.php on line 56 and at least 1 expected | Файл: C:\xampp\htdocs\myproject\public\index.php | Строка: 42
+============
+[2019-02-18 18:41:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-18 19:03:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 21
+============
+[2019-02-18 19:04:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\app\controllers\CategoryController.php | Строка: 21
+============
+[2019-02-18 19:05:05] Текст ошибки: Too few arguments to function filterUrl(), 0 passed in C:\xampp\htdocs\myproject\app\templates\CategoryController\index.php on line 30 and at least 1 expected | Файл: C:\xampp\htdocs\myproject\core\function.php | Строка: 3
+============
+[2019-02-18 21:22:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 83
+============
+[2019-02-18 21:29:41] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 21:29:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 21:29:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 21:30:12] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 21:58:55] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:44] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:44] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:45] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:46] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:47] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:00:47] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:18:38] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:18:44] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:19:33] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:19:36] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:22:40] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:22:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:23:00] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:23:05] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:29:12] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-18 22:38:34] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-18 22:38:49] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-18 22:38:51] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-18 22:38:52] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-18 22:38:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-18 22:41:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 12:38:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 12:40:18] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 85
+============
+[2019-02-19 12:45:12] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-19 12:45:57] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-19 12:45:58] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-19 12:45:59] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-19 12:46:01] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 86
+============
+[2019-02-19 13:53:26] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 5' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 99
+============
+[2019-02-19 13:55:23] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 5' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 99
+============
+[2019-02-19 13:56:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 18:34:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 20:36:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 21:15:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 21:16:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-19 21:19:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 12:50:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 13:01:24] Текст ошибки: Class 'app\widgets\menu\Menu' not found | Файл: C:\xampp\htdocs\myproject\app\controllers\admin\CategoryController.php | Строка: 66
+============
+[2019-02-20 13:01:43] Текст ошибки: Class 'app\Menu' not found | Файл: C:\xampp\htdocs\myproject\app\templates\Admin\CategoryController\edit.php | Строка: 26
+============
+[2019-02-20 13:02:18] Текст ошибки: Class 'app\widgets\menu\Menu' not found | Файл: C:\xampp\htdocs\myproject\app\templates\Admin\CategoryController\index.php | Строка: 18
+============
+[2019-02-20 13:03:26] Текст ошибки: Class 'app\widgets\menu\Menu' not found | Файл: C:\xampp\htdocs\myproject\app\templates\layouts\tryshop.php | Строка: 52
+============
+[2019-02-20 13:04:04] Текст ошибки: syntax error, unexpected 'new' (T_NEW) | Файл: C:\xampp\htdocs\myproject\app\templates\layouts\tryshop.php | Строка: 52
+============
+[2019-02-20 13:33:11] Текст ошибки: Не найден вид C:\xampp\htdocs\myproject/app/templates/CartController/add.php | Файл: C:\xampp\htdocs\myproject\core\base\View.php | Строка: 39
+============
+[2019-02-20 14:42:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:43:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:43:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:45:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:47:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:47:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 14:52:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 14:53:33] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 14:53:34] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 14:53:35] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 14:56:50] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 14:57:51] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 111
+============
+[2019-02-20 15:07:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:07:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:11:14] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DELETE %'  ORDER BY id DESC' at line 1 | Файл: C:\xampp\htdocs\myproject\app\models\ItemModel.php | Строка: 109
+============
+[2019-02-20 15:13:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:13:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:14:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:14:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:14:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============
+[2019-02-20 15:15:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\myproject\core\Router.php | Строка: 61
+============

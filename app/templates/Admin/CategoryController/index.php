@@ -15,7 +15,7 @@
         <div class="col-md-12">
             <div class="box">
                 <div class="box-body">
-                    <?php new \app\widgets\menu\Menu([
+                    <?php new \app\controllers\Menu([
                         'tpl' => ROOT . '/public/menu/category_menu.php',
                         'container' => 'div',
                         'class' => 'list-group list-group-root well',

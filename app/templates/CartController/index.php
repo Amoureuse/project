@@ -29,5 +29,11 @@ foreach ($res as $item):?>
       </td>
       <td>&nbsp;</td>
     </tr>
+    <tr>
+        <td>
+            <a class="add-cart item_add" href="/cart/order">Оформить заказ</a>
+        </td>
+    </tr>
   </tbody>
+  
 </table>
