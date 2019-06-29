@@ -12,8 +12,9 @@ require_once ROOT . '/core/function.php';
 $config = config('db');
 $db = \project\Database::getInstance($config);
 $connect = $db->connection;
-new project\App(); 
+new project\App();
 
+//Test 1
 
 ?>
 
